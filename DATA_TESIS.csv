@@ -1,0 +1,429 @@
+NO;PROVINSI;KABUPATEN_KOTA;DAERAH_PEMILIHAN;LAPORAN_TEMUAN;TAHAPAN;NOMOR;TANGGAL_TEMUAN_LAPORAN;NAMA_PELAPOR;JABATAN_PELAPOR;UMUR_PELAPOR;NAMA_TERLAPOR;JABATAN_TERLAPOR;UMUR_TERLAPOR;JENIS_KELAMIN_TERLAPOR;SAKSI;HASIL_KAJIAN;JENIS_PELANGGARAN
+1;Jawa Barat;Kabupaten_Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kab/13.10/XII/2019;28-Dec-19;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Dr. Ayep Rukmana, M.Si;ASN;56;PRIA;SAUFAT ENDRAWAN;PELANGGARAN;HUKUM_LAIN
+2;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;02/TM/PB/Kab/13.10/II/2020;09-Feb-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Suhendan Kristian;ASN;55;PRIA;ASEP ROHMAN ANTON, RAHMAT, FANY HANDIKA;PELANGGARAN;HUKUM_LAIN
+3;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;03/TM/PB/Kab/13.10/II/2020;18-Feb-20;Andri Kuswandi;PANWAS KECAMATAN;32;Drs. Nana Supriatna, M.Pd;ASN;55;PRIA;BUDI HENDRIANA, FERRY VEBRIAN HAMDANI, YAYANG HENDRI S.;PELANGGARAN;HUKUM_LAIN
+4;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;04/TM/PB/Kab/13.10/II/2020;17-Mar-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Drs. Baban Banjar.F.S., M.Si;ASN;57;PRIA;"ELISYAWATI,
+  RANGGA JULIAN HADI";PELANGGARAN;HUKUM_LAIN
+5;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;06/TM/APKE/BAWASLU KAB BDG/VII/2020;13-Jul-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Drs.Usman Sayogi, J.B.M.Si;ASN;57;PRIA;"RANGGA JULIAN HADI,
+  ZEZEN ZAINAL,
+  SAUFAT ENDRAWAN";PELANGGARAN;HUKUM_LAIN
+6;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;07/TM/PB/Kab/13.10/VIII/2020;03-Aug-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Mohamad Yusup;ASN;48;PRIA;"1. RANGGA JULIAN HADI
+  2. ADAM HAIS RAMADHAN";PELANGGARAN;HUKUM_LAIN
+7;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;09/TM/PB/Kab/13.10/VIII/2020;18-Aug-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Tuti Rismawati;ASN;37;WANITA;"1. RANGGA JULIAN HADI
+  2. ADAM HAIS RAMADHAN
+  3. RONI FAHRONI
+  4. NISSA INSANI
+  5. GILANG PARLAUTAN";PELANGGARAN;HUKUM_LAIN
+8;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pembentukan PPK PPS dan KPPS;001/TM/Bawaslu/Prov.JB-01.23/3/2020;20-Mar-20;Lutfi Fahrul Rizal;PANWAS KECAMATAN;31;Budi Mantara;PPK;48;PRIA;ASEP SOMANTRI;PELANGGARAN;KODE_ETIK
+9;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;05/TM/APKE/BAWASLU KAB BDG/VI/2020;15-Jun-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Rizal Febrianto;PANWAS KECAMATAN;30;PRIA;"RANGGA JULIAN HADI,
+  ADAM HAIS RAMADHAN";PELANGGARAN;KODE_ETIK
+10;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/Kec.Ciparay/VII/2020;15-Jul-20;Ade Akhmad Sulaeman;PANWAS KECAMATAN;49;Agung Nugraha, S.Pd;PPK;56;PRIA;"1. SETIA AGUNG
+  2. MUHAMAD RAMDANI";PELANGGARAN;ADMINISTRASI
+11;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;08/TM/PB/Kab/13.10/VIII/2020;12-Aug-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Yusuf Darmaji;PPK;56;PRIA;"1. RANGGA JULIAN HADI
+  2. ADAM HAIS RAMADHAN
+  3. RONI FAHRONI
+  4. NISSA INSANI
+  5. GILANG PARLAUTAN";PELANGGARAN;KODE_ETIK
+12;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;10/TM/PB/Kab/13.10/IX/2020;03-Aug-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Euis Rita;ASN;54;WANITA;"1. RANGGA JULIAN HADI
+  2. SANSAN WIEYANA (PANWAS MAJALAYA)
+  3. ANDRI HENDRAWAN (PANWAS BOJONGSOANG)
+  4. IKA NUGRAHA (CAMAT MAJALAYA)";PELANGGARAN;HUKUM_LAIN
+13;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kec.Margaasih/13.10/IX/2020;01-Sep-20;Risman Riswandi;PANWAS KECAMATAN;43;Cece Ismaya;ASN;40;WANITA;"1. RUDY SETYABUDI
+  2. JEHAN AHMAD TAJUL ARIFIN";PELANGGARAN;HUKUM_LAIN
+14;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;12/TM/PB/Kab/13.10/IX/2020;17-Sep-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Heni Hamaliani, S.Pd.SD;ASN;52;WANITA;"1. Zia Fauzia
+ 2. Abdul Dayan Sulaeman";PELANGGARAN;HUKUM_LAIN
+15;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;11/TM/PB/Kab/13.10/IX/2020;17-Sep-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Andri Yudha P. S.Ip., M.Si;ASN;34;PRIA;"1. Rangga Julian Hadi
+ 2. Iyan Mulyana
+ 3. Ryan Yayan Herdiana";BUKAN PELANGGARAN;HUKUM_LAIN
+16;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;13/TM/PB/Kab/13.10/IX/2020;17-Sep-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Dra. As As Masitoh Four Star, M.Si;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+17;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;14/TM/PB/Kab/13.10/IX/2020;17-Sep-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Dr. Cucu Supriatna, S.Pd., M.Pd;ASN;55;WANITA;"1. Rangga Julian Hadi
+ 2. Adam Hais Ramadhan";PELANGGARAN;HUKUM_LAIN
+18;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;15/TM/PB/Kab/13.10/IX/2020;22-Sep-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Dra. Enah Saenah Dasim;ASN;52;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+19;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kec.Pameungpeuk/13.10/IX/2020;24-Sep-20;Insan Nurussalam;PANWAS KECAMATAN;39;Wahyudin;PPS;56;PRIA;"1. Perdi Pratama Witarsa
+ 2. Rudi Nurdiansyah";PELANGGARAN;KODE_ETIK
+20;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;03/TM/PB/Kec.Margahhayu/13.10/IX/2020;28-Sep-20;Achmad Ridwan;PANWAS KECAMATAN;39;Taufik, SE;PPS;38;PRIA;"1. Tepi Sandriawan
+ 2. Fauzan Solahudin";PELANGGARAN;KODE_ETIK
+21;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;16/Reg/LP/PB/Kab/13.10/X/2020;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;TIM KAMPANYE PASLON;41;Kurnia Agustina;PASLON;56;WANITA;"1. Ipin Arifin
+ 2. Ahmad Fauzi";BUKAN PELANGGARAN;PIDANA
+22;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;17/Reg/LP/PB/Kab/13.10/X/2020;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;TIM KAMPANYE PASLON;41;H. Ahwal;TIM KAMPANYE;56;PRIA;"1. Aus
+ 2. Acil";BUKAN PELANGGARAN;PIDANA
+23;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;18/Reg/LP/PB/Kab/13.10/X/2020;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;TIM KAMPANYE PASLON;41;Yanto Setianto;TIM KAMPANYE;56;PRIA;"1. M Iqbal N
+ 2. Rizki Fauzi";BUKAN PELANGGARAN;PIDANA
+24;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;19/Reg/LP/PB/Kab/13.10/X/2020;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;TIM KAMPANYE PASLON;41;Kepala Satpol PP Kabupaten Bandung;TIM KAMPANYE;56;PRIA;"1. M Iqbal N
+ 2. Rizki Fauzi";BUKAN PELANGGARAN;HUKUM_LAIN
+25;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;20/TM/PB/Kab/13.10/X/2020;06-Oct-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Usep Mulyana, S.Ip;ASN;56;PRIA;"1. Husni Maulidi
+ 2. Asep Ridwan
+ 3. Dadang Purwana
+ 4. Ponidi
+ 5. Yana Supriatna";PELANGGARAN;HUKUM_LAIN
+26;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;21/Reg/LP/PB/Kab/13.10/X/2020;10-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;TIM KAMPANYE PASLON;41;Dadang Naser;TIM KAMPANYE;56;PRIA;"1. Nurdiansyah
+ 2. Hasan";BUKAN PELANGGARAN;PIDANA
+27;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/Kec.Ibun/13.10/X/2020;06-Oct-20;Rizal Taufiq Hidayat;PANWAS KECAMATAN;39;Arya Restu Ali;PPS;56;PRIA;"1. Zhe Hamdani
+ 2. Abdul Aziz";PELANGGARAN;KODE_ETIK
+28;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;22/Reg/LP/PB/Kab/13.10/X/2020;20-Oct-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Kartika Prapti Diah Handayani;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+29;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;23/Reg/LP/PB/Kab/13.10/X/2020;20-Oct-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Deswita Misnar, S.Pd., M.Pd;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin
+ 3. Sansan Wieyana";PELANGGARAN;HUKUM_LAIN
+30;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;24/TM/PB/Kab/13.10/X/2020;26-Oct-20;Alida Rayana;PANWAS KECAMATAN;39;Eti Mulyati Hilman;TIM KAMPANYE;56;WANITA;"1. Moh. Zezen Zazinal M
+ 2. Andryka Salman
+ 3. Suparman Toni
+ 4. Rudy Suparli
+ 5. Asep Suhendi
+ 6. Yuyun Yulikasari";BUKAN PELANGGARAN;PIDANA
+31;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;25/Reg/LP/PB/Kab/13.10/X/2020;26-Oct-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Agus Hermawan;ASN;56;PRIA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin
+ 3. Sansan Wieyana";PELANGGARAN;HUKUM_LAIN
+32;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;26/Reg/LP/PB/Kab/13.10/X/2020;26-Oct-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Laela Yuliawati, S.P., M.P;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin
+ 3. Sansan Wieyana";PELANGGARAN;HUKUM_LAIN
+33;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;27/Reg/LP/PB/Kab/13.10/X/2020;26-Oct-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Undang;ASN;56;PRIA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin
+ 3. Sansan Wieyana";PELANGGARAN;HUKUM_LAIN
+34;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;28/TM/PB/Kab/13.10/XI/2020;03-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Abdul Syukur;ASN;56;PRIA;"1. Abdul Dayan Sulaeman
+ 2. Zia Fauzia
+ 3. Usep Aas Mubarok";PELANGGARAN;HUKUM_LAIN
+35;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;29/TM/PB/Kab/13.10/X/2020;04-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Dra. Neni Anggraeni, M.M;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+36;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;30/TM/PB/Kab/13.10/X/2020;04-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Neneng Yeti Mulyati, S.Pd;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adam Hais Ramadhan";PELANGGARAN;HUKUM_LAIN
+37;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;31/Reg/LP/PB/Kab/13.10/XI/2020;07-Nov-20;Dadan Abdul Rohman;WNI;39;H. Dadang Naser, S.H., S.Ip., M.I.Pol;TIM KAMPANYE;56;PRIA;"1. Agus 
+ 2. Holiman";PELANGGARAN;PIDANA
+38;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;32/TM/PB/Kab/13.10/XI/2020;07-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Yuyun Yuliana;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+39;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;33/TM/PB/Kab/13.10/XI/2020;08-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Sutardi;ASN;56;PRIA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+40;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;34/TM/PB/Kab/13.10/XI/2020;08-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Ece Surakhmat;ASN;56;PRIA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+41;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;35/TM/PB/Kab/13.10/XI/2020;16-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Imas Herlina Candra Hayati;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+42;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;36/TM/PB/Kab/13.10/XI/2020;16-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Sukaesih, S.E;ASN;47;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+43;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;37/Reg/LP/PB/Kab/13.10/XI/2020;16-Nov-20;Imam Rukmana;WNI;31;Ismawanto Somantri;TIM KAMPANYE;56;PRIA;"1. Deden Berlin
+ 2. Nandang Taryana
+ 3. Iis Nurhayati";PELANGGARAN;PIDANA
+44;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;38/TM/PB/Kab/13.10/XI/2020;17-Nov-20;Hedi Ardia;BAWASLU KABUPATEN/KOTA;38;Umi Kulsum;ASN;56;WANITA;"1. Rangga Julian Hadi
+ 2. Adik Najmudin";PELANGGARAN;HUKUM_LAIN
+45;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;01/TM/PB/Kec.Cilengkrang/13.10/XI/2020;03-Nov-20;Wandi Suwanda;PANWAS KECAMATAN;39;Una Rohana;ASN;56;PRIA;"1. Wandi Suwanda
+ 2. Ilham Dwiana Putra";PELANGGARAN;HUKUM_LAIN
+46;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;39/Reg/LP/PB/Kab/13.10/XI/2020;29-Nov-20;Rukman, S.Sos.I;WNI;38;Hj. Imas Maskanah;TIM KAMPANYE;56;WANITA;"1. Yanti Mirnawati
+ 2. Euis Haryati";BUKAN PELANGGARAN;PIDANA
+47;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;41/Reg/LP/PB/Kab/13.10/XII/2020;02-Dec-20;Rohmat;WNI;36;Muksin;TIM KAMPANYE;56;PRIA;"1. Dudu
+ 2. Ziko";PELANGGARAN;PIDANA
+48;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;40/TM/PB/Kab/13.10/XII/2020;02-Dec-20;Abdul Dayan Sulaeman;PANWAS KECAMATAN;39;Agus Sudrajat;ASN;56;PRIA;"1. Cepi Sopandi
+ 2. Yasa Sobari
+ 3. Dian Sri Rahayu";BUKAN PELANGGARAN;PIDANA
+49;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;42/Reg/LP/PB/Kab/13.10/XII/2020;09-Dec-20;Iyus Rusman, S.Pdi;WNI;34;Khopi Sayid Saepulloh;TIM KAMPANYE;56;PRIA;"1. Asep Sobar
+ 2. Heri Saputra, S.Pdi
+ 3. Ujang Kosasih";BUKAN PELANGGARAN;PIDANA
+50;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;43/Reg/LP/PB/Kab/13.10/XII/2020;16-Dec-20;Abdurrahman;WNI;31;Abdurrahman;TIM KAMPANYE;56;PRIA;Imam Syafe'I, S.Pd., M.Pd;BUKAN PELANGGARAN;PIDANA
+51;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;02-Oct-20;Tim Kampanye Divisi Hukum dan Advokasi Dahsyat;WNI;39;Kepala Satpol PP Kabupaten Bandung;ASN;56;PRIA;;BUKAN PELANGGARAN;HUKUM_LAIN
+52;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;02-Oct-20;Tim Kampanye Divisi Hukum dan Advokasi Dahsyat;WNI;39;Ketua Bumdes Desa Mekar Rahayu;ASN;56;PRIA;;BUKAN PELANGGARAN;HUKUM_LAIN
+53;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;02-Oct-20;Tim Kampanye Divisi Hukum dan Advokasi Dahsyat;WNI;39;Ridwan Kamil;ASN;56;PRIA;;BUKAN PELANGGARAN;HUKUM_LAIN
+54;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;02-Oct-20;Tim Kampanye Divisi Hukum dan Advokasi Dahsyat;WNI;39;Kurnia Agustina;PASLON;56;WANITA;;BUKAN PELANGGARAN;HUKUM_LAIN
+55;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;WNI;41;Muhammad Kurnia;TIM KAMPANYE;56;PRIA;Firman Abdul Rojak dan Saepulloh;BUKAN PELANGGARAN;HUKUM_LAIN
+56;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;WNI;41;Isteri Camat Ibun;TIM KAMPANYE;56;WANITA;Euis Rita dan M. Ikbal N;BUKAN PELANGGARAN;HUKUM_LAIN
+57;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;05-Oct-20;Dadi Wardiman, S.Sos. I., S.H., M.H;WNI;41;Tatang;TIM KAMPANYE;56;PRIA;Euis Rita dan M. Ikbal N;BUKAN PELANGGARAN;HUKUM_LAIN
+58;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;11-Nov-20;Iwan Ridwan;WNI;46;dadang Supriatna;PASLON;56;PRIA;Heri Saputra, Iyus Yusman dan Amin;BUKAN PELANGGARAN;HUKUM_LAIN
+59;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;19-Nov-20;Chrysencia Gita Sylviana;WNI;39;tidak diketahui;TIM KAMPANYE;56;PRIA;;BUKAN PELANGGARAN;HUKUM_LAIN
+60;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;27-Nov-20;Aep Saepudin;WNI;47;TimSes Bedas;TIM KAMPANYE;56;PRIA;;BUKAN PELANGGARAN;HUKUM_LAIN
+61;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;01-Dec-20;Yanti Mirnawati;WNI;43;Kurnia Agustina;TIM KAMPANYE;56;WANITA;Isah, Dani dan Usep Cahyana;BUKAN PELANGGARAN;HUKUM_LAIN
+62;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;04-Dec-20;Kesatuan Aksi Masyarakat dan Mahasiwa Jabar;WNI;39;Tim Sukses Pasangan Calon Nomor Urut 1;TIM KAMPANYE;56;PRIA;;BUKAN PELANGGARAN;HUKUM_LAIN
+63;Jawa Barat;Kabupaten Bandung;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;04-Dec-20;Aen Zulkarnaen;WNI;49;Ketua Rw 08, 09, 10 dan 12 Desa Cipagalo;TIM KAMPANYE;56;PRIA;Cucu Jaelani dan Iwan Solihin;BUKAN PELANGGARAN;HUKUM_LAIN
+64;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kab/13.15/II/2020;13-Feb-20;Hadi Dzikri Nur;BAWASLU KABUPATEN/KOTA;35;H. Oting Zaenal Mutaqin;ASN;60;PRIA;ADI DARMA SETIA;PELANGGARAN;HUKUM_LAIN
+65;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;02/TM/PB/Kab/13.15/VIII/2020;25-Jul-20;Hadi Dzikri Nur;BAWASLU KABUPATEN/KOTA;35;Tomtom Dani gadiat, BA;ASN;56;PRIA;Nono Karyono, Reza Zaragoza, Daden Kurnia;PELANGGARAN;HUKUM_LAIN
+66;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;03/TM/PB/Kab/13.15/VIII/2020;14-Aug-20;YUDA GUNTARA;PANWAS KECAMATAN;27;GUNAWAN, S.Kep;ASN;47;PRIA;Wildan Nurjamil, Ade Kosmaya;PELANGGARAN;HUKUM_LAIN
+67;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pembentukan PPK PPS dan KPPS;01/LP/PB/KAB/13.15/II/2020;21-Feb-20;Lalah Laela;WNI;43;Ketua dan Anggota KPU Kabupaten Cianjur;KPUD;56;PRIA;NANDAR ALAMSYAH, IMAN KUSTIMAN, AJAT SUDRAJAT;BUKAN PELANGGARAN;ADMINISTRASI
+68;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kec.Tanggeung/13.15/VII/20200;02-Jul-20;Miftah Farid;PANWAS KECAMATAN;39;Dodi Agusti Romdon;TIM KAMPANYE;30;PRIA;"Asep Sudija,
+ Soleh Mukti Ali";BUKAN PELANGGARAN;HUKUM_LAIN
+69;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;04/TM/APKE/BWS KAB CIANJUR/IX/2020;15/09/2020;Hadi Dzikri Nur;BAWASLU KABUPATEN/KOTA;35;1. Teradu I Mochammad Devi Cahya Ruhimat 2. Teradu II Magfur 3. Teradu III Hasanudin 4. Teradu IV Tibyan Arifin;PANWAS KECAMATAN;28;PRIA;"1. Plt. Camat Sukaluyu Sdr. Drs. DADAN MIHARJA 2. Kasi Trantib Kecamatan Sukaluyu Sdr. NANDI ROHENDI, S.AP 3. Kepala Puskesamas Sdr. dr. NURUL HADIE 
+ 4. Bendahara Panwaslu Kecamatan Sukaluyu Sdr. SAMSUDIN SUHERMAN 
+ 5. Pramusaji Panwaslu Kecamatan Sukaluyu Sdr. AANG ISA WIDIANSYAH";PELANGGARAN;ADMINISTRASI
+70;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;05/TM/PB/Kab/13.15/X/2020;13/10/2020;RAMLAN;PANWAS KECAMATAN;37;SUN SUN SUNJANA;TIM KAMPANYE;39;PRIA;"1. HOLISAH
+ 2. LILIS
+ 3. SOLIHAH
+ 4. BANGBANG 5. HENDRA SEJATI
+ 6. DIDIN ROYANI";PELANGGARAN;PIDANA
+71;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;06/TM/PB/Kab/13.15/X/2020;14/10/2020;Hadi Dzikri Nur;BAWASLU KABUPATEN/KOTA;35;Sdr. A MUNAWAR sebagai Terlapor I;TIM KAMPANYE;47;PRIA;Drs. ACEP JUNAEDI, BENI;PELANGGARAN;PIDANA
+72;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;01/TM/PB/Kec.Cijati/13.15/X/2020;10/10/2020;Ayi Yusup Tojiri;PANWAS KECAMATAN;45;1. Indra Gunara, S.Pd.I selaku Pelaku I;PPK;44;PRIA;"1. Ruslansah
+ 2. Nendra
+ 3. Hilman Sidik Bin H Saepul 4. Ramal Hidayat Bin T Abudi";PELANGGARAN;KODE_ETIK
+73;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;07/REG/LP/PB/KAB/13.15/XI/2020;11/02/2020;EKI DWI ERIYANTO;WNI;29;DRS. H. TOHARI SASTRA, M.Si;ASN;57;PRIA;1. Agus Supendi 2. YANA MUHAMMAD KAMALUDIN, S.E, M.M;BUKAN PELANGGARAN;PIDANA
+74;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;08/TM/PB/Kab/13.15/XI/2020;11/10/2020;ENDANG SOPANDI;PANWAS KECAMATAN;29;JAENUDIN SETIATMAN, S.Pd;TIM KAMPANYE;51;PRIA;"1.Dede Ismail
+ 2. Deden hidayat";BUKAN PELANGGARAN;HUKUM_LAIN
+75;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;09/TM/PB/Kab/13.15/XI/2020;10/11/2020;Endang Sopandi;PANWAS KECAMATAN;29;Wahyu Suhada;PPS;50;PRIA;"1.Dede Ismail
+ 2. Deden hidayat";PELANGGARAN;KODE_ETIK
+76;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;10/REG/LP/PB/KAB/13.15/XI/2020;16/11/2020;EKA SETIAWAN;WNI;36;H. MUSLIH;TIM KAMPANYE;57;PRIA;Subarkah;PELANGGARAN;PIDANA
+77;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;11/TM/PB/Kab/13.15/XII/2020;12/02/2020;UJANG JAMALUDIN;WNI;45;Dedi Hidayat;TIM KAMPANYE;56;PRIA;"a. Sdr. DONI ARIFIANTO
+ b. Sdr. SOBUR
+ c. Sdr. UJAY MUHAMAD SANUSI 
+ d. Sdr. A DANI SAHAL";PELANGGARAN;PIDANA
+78;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;12/REG/LP/PB/KAB/13.15/XII/2020;12/07/2020;YUSWANDA AKBAR, S.S;WNI;52;BUDI KARYAWAN;TIM KAMPANYE;56;PRIA;DENI HENDRA WIJAYA;BUKAN PELANGGARAN;PIDANA
+79;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;13/REG/LP/PB/KAB/13.15/XII/2020;08/12/2020;JAENAL JAELANI;WNI;22;CECEP ALAMSYAH;ASN;56;PRIA;WANDI RUSWANNUR. S.SY. M.PD;BUKAN PELANGGARAN;PIDANA
+80;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Pemungutan dan Penghitungan Suara;14/TM/PB/Kab/13.15/XII/2020;14/12/2020;FARHAAN MUHAMMAD RIDWAN, S.ikom;PANWAS KECAMATAN;31;Sdr. HERMAN;TIM KAMPANYE;29;PRIA;"1. KUSNADI (Anggota PTPS 31 Kp. Pasekon Desa Cipendawa Kec. Pacet)
+ 2. UUS (Ketua Ketua Rt .01 Rw.14 Desa Cipendawa Kec. Pacet Kab. Cianjur)";BUKAN PELANGGARAN;PIDANA
+81;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Pemungutan dan Penghitungan Suara;15/TM/PB/Kab/13.15/XII/2020;15/12/2020;FARHAAN MUHAMMAD RIDWAN, S.ikom;PANWAS KECAMATAN;31;Sdr. ENCEP;TIM KAMPANYE;56;PRIA;"DENDI SETIAWAN (Anggota PTPS 21)
+ AGUS WAHYUDIN (PKD Sukanagalih 
+  Kec. Pacet Kab. Cianjur)";BUKAN PELANGGARAN;PIDANA
+82;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;16/REG/LP/PB/KAB/13.15/XII/2020;14/12/2020;HADI MUHIDIN, SE;WNI;39;Sdr. H.HERMAN SUHERMAN, S.T.,M.AP;TIM KAMPANYE;59;PRIA;1. Sdr. Junaedi 2. Sdr. Abdurrahman;BUKAN PELANGGARAN;PIDANA
+83;Jawa Barat;Kabupaten Cianjur;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;17/REG/LP/PB/KAB/13.15/XII/2020;16/12/2020;FAHMI MUFTI;PEMANTAU PEMILIHAN;27;Sdr. H.HERMAN SUHERMAN, S.T.,M.AP;TIM KAMPANYE;59;PRIA;1. Sdr. Junaedi 2. Sdr. Abdurrahman;BUKAN PELANGGARAN;PIDANA
+84;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pembentukan PPK PPS dan KPPS;001/TM/APKE/BWS KAB.IDM/13.18/XII/2019;29-Dec-19;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Syaefuddin, S.Pd., M.Pd.I;PANWAS KECAMATAN;40;PRIA;"Dapan (Mantan Plt Ketua DPD PAN Kab. Indramayu);
+  Reza Darmawan (Staff Bawaslu Kab. Indramayu)";BUKAN PELANGGARAN;KODE_ETIK
+85;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pembentukan PPK PPS dan KPPS;002/TM/PB/Kab/13.18/III/2020;12-Mar-20;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Ahmad Toni Fatoni, S.Pd.I., M.Pd.I,;KPUD;44;PRIA;DEDI SUHENDI (Staff Panwaslu Kecamatan Gabuswetan), Risca Kartika Oktaviani (Operator Panwaslu Kecamatan Gabuswetan);BUKAN PELANGGARAN;ADMINISTRASI
+86;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;001/TM/PB/Kec.Lelea/13.18/VII/2020;02-Jul-20;Muhamad Dila Roesyana;PANWAS KECAMATAN;39;EDI SOESANTO;PPS;49;PRIA;Kani Binti Darsipan, Kastirem, Darenih, Hj. Etin Prihatin;PELANGGARAN;ADMINISTRASI
+87;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;001/TM/PB/Kec.Indramayu/13.18/VII/2020;14-Jul-20;MUJI ZAIN NAUFAL, M.Pd;PANWAS KECAMATAN;33;IMAM SUBHAN;PPK;43;PRIA;Tety Elisa, Wawan Supriyady;PELANGGARAN;ADMINISTRASI
+88;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Pemungutan dan Penghitungan Suara;001/TM/PB/Kec.Kandanghaur/13.18/VII/2020;17-Jul-20;Rofi Bahrul Ilmi;PANWAS KECAMATAN;33;GINANJAR WISNU KAWIRIAN;PPK;39;PRIA;Waryani, Basuni;PELANGGARAN;ADMINISTRASI
+89;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;02/TM/PB/Kec.Balongan/13.18/VII/2020;19-Jul-20;Solihin, S.Sos;PANWAS KECAMATAN;42;Tarminudin dan Iman Indrawijaya;TIM KAMPANYE;31;PRIA;IKE SEFTIYAN, ZAHRA ILBATUL, FAHMI ALI IQBAL;PELANGGARAN;ADMINISTRASI
+90;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/Kec.Arahan/13.18/VII/2020;14-Jul-20;Muhammad Khanan;PANWAS KECAMATAN;27;Riyanto;PPS;56;PRIA;WARYADI dan RIDWAN;PELANGGARAN;ADMINISTRASI
+91;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;002/TM/PB/Kec.Arahan/13.18/VII/2020;18-Jul-20;Yuyun Seftiani;PANWAS KECAMATAN;34;Saeful Bahri;TIM KAMPANYE;56;PRIA;Rodiyah dan Sunarti;PELANGGARAN;ADMINISTRASI
+92;Jawa Barat;Kabupaten Indramayu;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;003/TM/PB/Kec.Arahan/13.18/VII/2020;20-Jul-20;Muchammad Hamzah;PANWAS KECAMATAN;28;Warno;TIM KAMPANYE;56;WANITA;Waryadi dan Fitriani;PELANGGARAN;ADMINISTRASI
+93;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/Kec.Haurgeulis/13.18/VII/2020;22-Jul-20;Sahri Mulyana;PANWAS KECAMATAN;30;Nopan Safariyanto;TIM KAMPANYE;39;PRIA;Wawan Hermawan, Agus Subhan;PELANGGARAN;ADMINISTRASI
+94;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/LP/PB/Kec. Arahan/13.18/VIII/2020;17-Aug-20;Rus Untung;WNI;36;NurNingsih;TIM KAMPANYE;50;PRIA;Irwanto Sukmayadi, Edin Dahedin;PELANGGARAN;ADMINISTRASI
+95;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;004/TM/PB/Kab/13.18/VIII/2020;18-Aug-20;Supriadi, S.H.I;BAWASLU KABUPATEN/KOTA;40;Ahmad Toni Fatoni, S.Pd.I., M.Pd.I,;KPUD;44;PRIA;Nur Qomar, Basuni, Akhmad Saekhu;PELANGGARAN;ADMINISTRASI
+96;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;003/TM/APKE/BWS KAB.IDM/VIII/2020;17-Aug-20;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Hasanudin;PANWAS KECAMATAN;37;PRIA;Ade Sutrisno, Imam Faturahman;PELANGGARAN;KODE_ETIK
+97;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;005/TM/PB/Kab/13.18/VIII/2020;25-Aug-20;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Dra. Tri Nani Rochaeningsih, MM;ASN;57;WANITA;Reza Darmawan, Carto, Dedy Indra Cahyadi, Muji Zain Naufal, M.Pd, Rofi Bahrul Ilmi, Ahmad Subqi, Ngarip Ngajid, Taryanto, Muhamad Dila Roesyana, Syamsul Anwar, Subakir;PELANGGARAN;HUKUM_LAIN
+98;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;006/TM/PB/Kab/13.18/IX/2020;09-Sep-20;Nurhadi, S.Pd;BAWASLU KABUPATEN/KOTA;37;Ahmad Toni Fatoni, S.Pd.I., M.Pd.I,;KPUD;44;PRIA;Syafi'I, S.Pd M. Agus Riyanto, S.Pd;PELANGGARAN;ADMINISTRASI
+99;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;007/TM/PB/Kab/13.18/IX/2020;16-Sep-20;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Ahmad Toni Fatoni, S.Pd.I., M.Pd.I,;KPUD;44;PRIA;Handhika Rahman, M. Agus Riyanto, Irvan Juhri;PELANGGARAN;KODE_ETIK
+100;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pencalonan;001/LP/PB/Kab/13.18/IX/2020;10-Sep-20;Casmudi;WNI;34;Indra Arisanto;PANWAS KECAMATAN;35;PRIA;Dadang, Ranto;BUKAN PELANGGARAN;KODE_ETIK
+101;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;008/TM/PB/Kab/13.18/X/2020;02-Oct-20;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Dewi Nurmalasari, S.HI., M.A;KPUD;40;WANITA;Munawaroh, S.IP, Alfi Selli Ni'Mah;PELANGGARAN;ADMINISTRASI
+102;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;02-Oct-20;Muhamad Widad;WNI;32;Lucky Hakim;PASLON;43;PRIA;Febi Irianto, Dolly Reza Pahlevi;BUKAN PELANGGARAN;HUKUM_LAIN
+103;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;02-Oct-20;Febi Irianto;WNI;30;Banu Aji;TIM KAMPANYE;56;PRIA;Ridwan Arifin, Dolly Reza Pahlevi;BUKAN PELANGGARAN;PIDANA
+104;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;04-Oct-20;Efendi;WNI;49;Daniel Mutaqien Syafiuddin;PASLON;40;PRIA;-;BUKAN PELANGGARAN;PIDANA
+105;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;005/REG/LP/PB/Kab/13.18/X/2020;05-Oct-20;Pandu Patra Pradana;WNI;30;Lucky Hakim;PASLON;43;PRIA;Febi Irianto, Dolly Reza Pahlevi;BUKAN PELANGGARAN;ADMINISTRASI
+106;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;006/REG/LP/PB/Kab/13.18/X/2020;05-Oct-20;Roby Alamsyah;WNI;25;Lucky Hakim;PASLON;43;PRIA;Febi Irianto, Dolly Reza Pahlevi;PELANGGARAN;ADMINISTRASI
+107;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;007/REG/LP/PB/Kab/13.18/X/2020;05-Oct-20;Bambang Deka Isbandi;WNI;33;Sholihin - Ratnawati;PASLON;42;PRIA;Cecep Kurito, Keyzya Pratama;BUKAN PELANGGARAN;ADMINISTRASI
+108;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;008/LP/PB/Kab/13.18/X/2020;05-Oct-20;Roby Alamsyah;WNI;25;Banu Aji;TIM KAMPANYE;56;PRIA;Ridwan Arifin, Dolly Reza Pahlevi;BUKAN PELANGGARAN;PIDANA
+109;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;009/REG/LP/PB/Kab/13.18/X/2020;05/10/2020;Muhamad Yoga Pratama;WNI;21;Lucky Hakim;TIM KAMPANYE;43;PRIA;Ridwan Arifin, Dolly Reza Pahlevi;PELANGGARAN;ADMINISTRASI
+110;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;010/REG/LP/PB/Kab/13.18/X/2020;06-Oct-20;Mohamad Nasir, S.H;WNI;40;Sigit Widiyanto, S.H;ASN;56;PRIA;H. Sirojudin, S.P , Ibnu Koldun, Casmudi;PELANGGARAN;HUKUM_LAIN
+111;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;011/REG/LP/PB/Kab/13.18/X/2020;13-Oct-20;Mohamad Nasir, S.H;WNI;40;H. Taufik Hidayat, S.H;PASLON;54;PRIA;Ali Maknawi, Ahmad Hasan A'sary, Carmin;BUKAN PELANGGARAN;PIDANA
+112;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;009/TM/PB/Kab/13.18/X/2020;13-Oct-20;Tarjono, S.H;BAWASLU KABUPATEN/KOTA;43;Hapipah;ASN;39;PRIA;waryani, parman;PELANGGARAN;HUKUM_LAIN
+113;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;012/PL/PB/Kab/13.18/X/2020;14-Oct-20;Roby Alamsyah;WNI;25;Tarkani;TIM KAMPANYE;56;PRIA;muhamad widad, febi Irianto;BUKAN PELANGGARAN;PIDANA
+114;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;013/REG/LP/PB/Kab/13.18/X/2020;19-Oct-20;Azkaa;WNI;26;Sukori;TIM KAMPANYE;50;PRIA;Anas Bukhori, Tarwibowo Susanto;PELANGGARAN;PIDANA
+115;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;014/PL/PB/Kab/13.18/X/2020;20-Oct-20;Roby Alamsyah;WNI;26;M. Sholihin;PASLON;56;PRIA;muhamad widad, febi Irianto;BUKAN PELANGGARAN;PIDANA
+116;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;010/TM/PB/Kab/13.18/X/2020;21-Oct-20;Supriadi, S.H.I;BAWASLU KABUPATEN/KOTA;40;H. Tarkani AZ;TIM KAMPANYE;54;PRIA;Carto, Vevi Alfi Maghfiroh;PELANGGARAN;HUKUM_LAIN
+117;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;015/PL/PB/Kab/13.18/X/2020;22-Oct-20;Roby Alamsyah;WNI;25;M. Sholihin dan Ratnawati;PASLON;56;PRIA;muhamad widad, febi Irianto;PELANGGARAN;ADMINISTRASI
+118;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;016/REG/LP/PB/13.18/X/2020;26-Oct-20;Roby Alamsyah;WNI;25;Nina Agustina dan Lucky Hakim;PASLON;43;PRIA;muhamad widad, Elvan Dwi Putra;PELANGGARAN;ADMINISTRASI
+119;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;017/REG/LP/PB/13.18/X/2021;09-Nov-20;Anggi Saputra, S.H;WNI;25;Anton Wijaya;TIM KAMPANYE;36;PRIA;Kiki Rizkiana, Muhammad Ainun Najib Surahman;PELANGGARAN;HUKUM_LAIN
+120;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;018/REG/LP/PB/13.18/X/2022;09-Nov-20;Anggi Saputra, S.H;WNI;25;H.Taufik Hidayat. S.H;PASLON;54;PRIA;Sofwan Istiqom, Untung Sucipto;BUKAN PELANGGARAN;PIDANA
+121;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pembentukan PPK PPS dan KPPS;01/TM/PB/KAB,KARAWANG/13.19/II/2020;2 Februari 2020;Charles Silalahi ;BAWASLU KABUPATEN/KOTA;39;Ketua dan Anggota KPU Kabupaten Karawang;KPUD;56;PRIA;NURLELA SARIPIN, DKK;PELANGGARAN;ADMINISTRASI
+122;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;011/TM/PB/Kab/13.18/XI/2020;13-Nov-20;Nurhadi, S.Pd;BAWASLU KABUPATEN/KOTA;37;M. Sholihin-Ratnawati, Daniel Mutaqien Syafiuddin-Taufik Hidayat, Nina-Lucky;PASLON;56;PRIA;Roby Alamsyah, Taufiq Hadi Sutrisno;PELANGGARAN;ADMINISTRASI
+123;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;019/REG/LP/PB/13.18/XI/2020;23-Nov-20;Anggi Saputra, S.H;WNI;25;1. Rustono,2. Jang Asa;TIM KAMPANYE;40;PRIA;Silu dan Suwarja;BUKAN PELANGGARAN;PIDANA
+124;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;020/PL/PB/Kab/13.18/XI/2020;23-Nov-20;Efendi;WNI;49;Daniel Mutaqien Syafiuddin;PASLON;40;PRIA;Dr. Hj. Lisfayeni, MM. dan Iman Sulaiman;BUKAN PELANGGARAN;ADMINISTRASI
+125;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;021/PL/PB/Kab/13.18/XI/2020;28-Nov-20;Roby Alamsyah;WNI;25;"1. Khaqim Nurjawahir
+ 2. Achmad Yani
+ 3. Amiyanti";TIM KAMPANYE;25;PRIA;Duryani dan Iing Saefudin;BUKAN PELANGGARAN;HUKUM_LAIN
+126;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;024/PL/PB/Kab/13.18/XI/2020;30-Nov-20;Roby Alamsyah;WNI;25;H. Yosep Ibrahim;TIM KAMPANYE;56;PRIA;Muhamad Widad dan Febi Irianto;BUKAN PELANGGARAN;HUKUM_LAIN
+127;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;025/PL/PB/Kab/13.18/XII/2020;04-Dec-20;Casmudi;WNI;34;Kadmirah als YOYO;TIM KAMPANYE;56;PRIA;Wahidin dan Hasim Asari;PELANGGARAN;HUKUM_LAIN
+128;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;022/PL/PB/Kab/13.18/XI/2020;28-Nov-20;Roby Alamsyah;WNI;25;Tadri;ASN;56;PRIA;Muhamad Widad dan Febi Irianto;BUKAN PELANGGARAN;HUKUM_LAIN
+129;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;023/PL/PB/Kab/13.18/XI/2020;30-Nov-20;Heri Handoko;WNI;33;Muhajir, S.Pd.;ASN;56;PRIA;Mastono dan Wanto;PELANGGARAN;KODE_ETIK
+130;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;026/PL/PB/Kab/13.18/XII/2020;08-Dec-20;Adi Kusyandi, S.H., M.H;WNI;53;Oos Dialam Baka;TIM KAMPANYE;56;PRIA;Ihsan Mahfud;BUKAN PELANGGARAN;HUKUM_LAIN
+131;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;027/PL/PB/Kab/13.18/XII/2020;08-Dec-20;Rasta;WNI;39;Karsim;TIM KAMPANYE;56;PRIA;Taryono dan M. Thohirin;BUKAN PELANGGARAN;PIDANA
+132;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;028/PL/PB/Kab/13.18/XII/2020;08-Dec-20;ROJANA;WNI;42;Saminih;TIM KAMPANYE;56;WANITA;Nuryanto dan Wakinah;BUKAN PELANGGARAN;PIDANA
+133;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;029/PL/PB/Kab/13.18/XII/2021;09-Dec-20;KARDI;WNI;52;Kartano;KPPS;56;PRIA;Indra Praja dan Carudin;BUKAN PELANGGARAN;PIDANA
+134;Jawa Barat;Kabupaten Indramayu;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;030/PL/PB/Kab/13.18/XII/2022;11-Dec-20;OPIK TAOPIQUROHMAN;WNI;40;Tarinih;KPPS;56;PRIA;Antoni dan M. Adnan;BUKAN PELANGGARAN;PIDANA
+135;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;02/TM/PB/KAB.KARAWANG/13.19/II/2020;20-Jul-20;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;39;Ketua dan Anggota KPU Kabupaten Karawang;KPUD;56;PRIA;;PELANGGARAN;ADMINISTRASI
+136;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC.MAJALAYA13.19/VII/2020;23 Jully 2020;Hogani Sipayung;PANWAS KECAMATAN;39;Wibowo;TIM KAMPANYE;56;PRIA;;PELANGGARAN;ADMINISTRASI
+137;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/KEC.Rengasdengklok13.19/VII/2020;23 Jully 2020;Agus Wydiatmoko;PANWAS KECAMATAN;39;Andi dan Umar;TIM KAMPANYE;56;PRIA;Sucito;PELANGGARAN;ADMINISTRASI
+138;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/KEC.KarawangTimur/13.19/VII/2020;25-Jul-20;ANto Yulianto;PANWAS KECAMATAN;39;Agung;TIM KAMPANYE;56;PRIA;Maman Supratman, Dedi Mulyadi;PELANGGARAN;ADMINISTRASI
+139;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/KEC.Kotabaru/13.19/VII/2020;03-Aug-20;Rizal;PANWAS KECAMATAN;39;Yayan Suryana;TIM KAMPANYE;56;PRIA;Mulyanti, Sarbini, Muhamad Yusuf;PELANGGARAN;ADMINISTRASI
+140;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/KEC.Ciampel/13.19/VII/2020;07-Aug-20;Mayang Sarini;PANWAS KECAMATAN;39;Dahirin, Yayan Rudian, Devi Irmawan;PPS;56;PRIA;Hendra;PELANGGARAN;ADMINISTRASI
+141;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. KLARI/10.13/VIII/2020;13-Aug-20;Udin Pahrudin;PANWAS KECAMATAN;39;Maryam Siti Marselina;TIM KAMPANYE;56;PRIA;Sdr. Agus Jahidi, Sdr. Triadi Abdul kodir;PELANGGARAN;ADMINISTRASI
+142;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. LEMAHABANG/13.19/VIII/2020;06-Aug-20;Abdul Rosid;PANWAS KECAMATAN;39;Rahmat Gandi;TIM KAMPANYE;56;PRIA;Dimas Gandapura, Dadan Hermawan, Leli Trisnawati;PELANGGARAN;ADMINISTRASI
+143;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. CIBUAYA/13.19/VIII/2021;14-Aug-20;Abdul Otong;PANWAS KECAMATAN;39;Darip;TIM KAMPANYE;56;PRIA;-;PELANGGARAN;ADMINISTRASI
+144;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. TELAGASARI/13.19/VIII/2022;12-Aug-20;Wawan Suwandi;PANWAS KECAMATAN;39;Anung;TIM KAMPANYE;56;PRIA;Khotib Satibi;PELANGGARAN;ADMINISTRASI
+145;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. CILEBAR/13.19/VIII/2020;19-Aug-20;Asep Ahmad D.Q;PANWAS KECAMATAN;39;Sunandar;TIM KAMPANYE;56;PRIA;-;PELANGGARAN;ADMINISTRASI
+146;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. TEGALWARU/13.19/VIII/2021;22-Aug-20;Yasin;PANWAS KECAMATAN;39;Engkus Kusnadi, Nadi, Diki Wahyudi, Enco Haryono, Tami Santiasa;TIM KAMPANYE;56;PRIA;Faturohman, Fery Cahyadi, Abdul Azis Setiawan;PELANGGARAN;ADMINISTRASI
+147;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. KUTAWALUYA/13.19/VIII/2020;17-Aug-20;Ajas;PANWAS KECAMATAN;39;Carim, Acep, Oong dan Oma;TIM KAMPANYE;56;PRIA;Supriyadi, Eli, Andriyanto;PELANGGARAN;ADMINISTRASI
+148;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC. CIKAMPEK/13.19/VIII/2020;15-Aug-20;Ismuhadi;PANWAS KECAMATAN;39;Andini Nidiaputri;TIM KAMPANYE;56;PRIA;Dartim;PELANGGARAN;ADMINISTRASI
+149;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/LP/PB/KEC.RENGASDENGKLOK/13.19/VIII/2020;08-Aug-20;Martim;WNI;39;PPS Desa Amanasari;PPS;56;PRIA;Sucito, Ama Subarna;BUKAN PELANGGARAN;ADMINISTRASI
+150;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/KEC.PEDES/13.19/VIII/2020;16/08/2020;Ade Nugraha YS;PANWAS KECAMATAN;42;TB Anwar Mudrik;PPS;48;PRIA;-;PELANGGARAN;ADMINISTRASI
+151;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;03/TM/PB/KAB.KARAWANG/13.19IIX/2020;10/09/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;59;PPK SE-KABUPATEN KARAWANG;PPK;56;PRIA;Panwascam se-Kabupaten Karawang, PKD se-Kabupaten Karawang;PELANGGARAN;ADMINISTRASI
+152;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;04/TM/PB/KAB.KARAWANG/13.19IIX/2020;17/09/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;59;Agus;ASN;62;PRIA;Yasin, Asep Saripudin, Didit;PELANGGARAN;HUKUM_LAIN
+153;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/KAB.KARAWANG/13.19/IX/2020;20/09/2020;Irma Garwan;PANWAS KECAMATAN;51;Cucu Suprapto;TIM KAMPANYE;28;PRIA;Rukmini, Naek Siburian;PELANGGARAN;HUKUM_LAIN
+154;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;05/TM/PB/KAB.KARAWANG/13.19IIX/2020;19/09/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;59;Edi Mulyadi;ASN;47;PRIA;-;PELANGGARAN;HUKUM_LAIN
+155;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;01/AD/APKE/BWS KAB.KARAWANG/IX/2020;26/09/2020;Irma Garwan;PANWAS KECAMATAN;51;Puga Hilal Bayhaqie;PPL;36;PRIA;Hj. Ayum Laelasari, Heru Ginanjar;PELANGGARAN;KODE_ETIK
+156;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;01/TM/PB/KEC. TIRTAJAYA/13.19/X/2020;04/10/2020;Cecep Sakhrudin;PANWAS KECAMATAN;39;Amin Sugianto;TIM KAMPANYE;51;PRIA;Idris marbawi, Abdurozak;PELANGGARAN;ADMINISTRASI
+157;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/KEC.KLARI/13.19/X/2020;14/10/2020;Udin Pahrudin;PANWAS KECAMATAN;32;Iwan Kurniawan Bahtiar;PPS;41;PRIA;Ahmad Supriadi, Komeng alias Endang Supardi;PELANGGARAN;KODE_ETIK
+158;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/KEC.MAJALAYA/13.19/X/2020;14/10/2020;Hogani Sipayung;PANWAS KECAMATAN;49;Hen Hen;TIM KAMPANYE;56;PRIA;Endah Endar Darsiah, Poniran;PELANGGARAN;ADMINISTRASI
+159;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;03/TM/PB/KEC.MAJALAYA/13.19/X/2021;14/10/2020;Hogani Sipayung;PANWAS KECAMATAN;49;Daming;TIM KAMPANYE;56;PRIA;Carwan, Endang;PELANGGARAN;ADMINISTRASI
+160;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;02/AD/APKE/BWS KAB.KARAWANG/X/2020;30/09/2020;Puga Hilal Bayhaqie;WNI;36;Irma Garwan;PANWAS KECAMATAN;51;PRIA;Dede Sutisna;PELANGGARAN;KODE_ETIK
+161;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/KEC.LEMAHABANG/13.19/X/2020;16/10/2020;Abdul Rosid;PANWAS KECAMATAN;39;H. Ahmad Zamakhsyari;PASLON;56;PRIA;Sohib, Endang Komarudin;PELANGGARAN;ADMINISTRASI
+162;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/KEC.REGASDENGKLOK/13.19/X/2020;02/10/2020;Saepul Muhtar;PANWAS KECAMATAN;35;Nur Ulia;TIM KAMPANYE;56;WANITA;-;PELANGGARAN;ADMINISTRASI
+163;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;03/TM/PB/KEC.REGASDENGKLOK/13.19/X/2020;26/10/2020;Saepul Muhtar;PANWAS KECAMATAN;74;Asep Nurhayat;PPS;41;PRIA;Ayu Juriah, Ratih;PELANGGARAN;HUKUM_LAIN
+164;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;06/TM/PB/KAB.KARAWANG/13.19IX/2020;25/10/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;59;Januri;TIM KAMPANYE;46;PRIA;Moh. Toha B, H. Imam, Deni;PELANGGARAN;HUKUM_LAIN
+165;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;07/TM/PB/KAB.KARAWANG/13.19IX/2021;25/10/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;59;Odang Akrab;TIM KAMPANYE;39;PRIA;H. Aep Saepulloh dan Ajat Suwandi;PELANGGARAN;HUKUM_LAIN
+166;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;03/AD/APKE/BWS KAB.KARAWANG/X/2020;19/10/2020;Abdul Rohman;TIM KAMPANYE PASLON;30;Fajar Ramadan;PANWAS KECAMATAN;32;PRIA;Anam, Ridwan, Dede Ilyas, Agus Ridwan;PELANGGARAN;KODE_ETIK
+167;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;01/LP/PB/KAB.KARAWANG/13.19/XI/2020;04/11/2020;A. Bajuri;TIM KAMPANYE PASLON;49;Cellica Nurrachadiana;PASLON;56;PRIA;Syawal Silalahi;PELANGGARAN;ADMINISTRASI
+168;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;08/TM/PB/KAB.KARAWANG/13.19IXI/2020;07/11/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;39;1. dr. Yesi Karya Lianti dan H. Ahmad Adly Fairuz 2. Cellica Nurrachadiana dan H. Aep Syaepuloh 3. H. Ahmad Zamakhsyari dan Yusni Rinzani;PASLON;56;PRIA;Panwascam se-Kabupaten Karawang, PKD se-Kabupaten Karawang;PELANGGARAN;ADMINISTRASI
+169;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;03/TM/PB/KEC.LEMAHABANG/13.19/XI/2020;04/11/2020;Abdul Rosid;PANWAS KECAMATAN;39;Hj. Ida Zamakhsyari;TIM KAMPANYE;56;WANITA;Yono Hermanto;PELANGGARAN;ADMINISTRASI
+170;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;04/TM/PB/KEC.LEMAHABANG/13.19/XI/2020;09/11/2020;Abdul Rosid;PANWAS KECAMATAN;39;Hj. Ida Zamakhsyari;TIM KAMPANYE;56;WANITA;Yono Hermanto;PELANGGARAN;ADMINISTRASI
+171;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/KEC.TELAGASARI/13.19/XI/2020;09/11/2020;Wawan Suwandi;PANWAS KECAMATAN;37;Ahmad Husen;TIM KAMPANYE;48;PRIA;Subarnas, Asep Saepul Bakhri, Ramdani Ghamar;PELANGGARAN;HUKUM_LAIN
+172;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;09/TM/PB/KAB.KARAWANG/13.19/XII/2020;03/12/2020;Kursin Kurniawan;BAWASLU KABUPATEN/KOTA;49;H. Enan Supriatna;TIM KAMPANYE;62;PRIA;H. Kacung, Fajar, Bambang, Suroh, Novi, Dedoh, Nenti, Yasin, Faturohman, Ace Eka;BUKAN PELANGGARAN;PIDANA
+173;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;02/REG/LP/PB/KAB.KARAWANG/13.19/XII/2020;08/12/2020;H. Nana Taruna S;WNI;61;H. Kasun;TIM KAMPANYE;50;PRIA;Adi Sumiran, Aab Andi, Ade Hasan, Mahar Kurnia,;BUKAN PELANGGARAN;PIDANA
+174;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;03/REG/LP/PB/KAB.KARAWANG/13.19/XII/2020;08/12/2020;H. Nana Taruna S;WNI;61;Jejen;TIM KAMPANYE;56;PRIA;Evi Asriyani, Hardi, Saepudin, M. Parto, Imas Masitoj;BUKAN PELANGGARAN;PIDANA
+175;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;04/REG/LP/PB/KAB.KARAWANG/13.19/XII/2020;08/12/2020;H. Nana Taruna S;WNI;61;H. Ayom;TIM KAMPANYE;63;PRIA;Karim, Kuc, Khodijah;BUKAN PELANGGARAN;PIDANA
+176;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;05/REG/LP/PB/KAB.KARAWANG/13.19/XII/2020;08/12/2020;Hilman Tamimi;WNI;29;Tim Kampanye/Relawan Pasangan Calon Nomor Urut 2;TIM KAMPANYE;56;PRIA;Riki Hermawan, Yusri;BUKAN PELANGGARAN;PIDANA
+177;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;06/REG/LP/PB/KAB.KARAWANG/13.19/XII/2020;09/12/2020;Sukarya;WNI;40;Pasangan Calon Bupati dan Wakil Bupati Nomor Urut 2;PASLON;56;PRIA;Ahmad Jauhari, Febriyanto;BUKAN PELANGGARAN;PIDANA
+178;Jawa Barat;Kabupaten Karawang;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan dan Penghitungan Suara;07/REG/LP/PB/KAB.KARAWANG/13.19/XII/2020;09/12/2020;Sukarya;WNI;40;Pasangan Calon Bupati dan Wakil Bupati Nomor Urut 3;PASLON;56;PRIA;Ahmad Jauhari, Febriyanto;BUKAN PELANGGARAN;PIDANA
+179;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kab/13.27/VIII/2020;04/08/2020;Gaga Abdilah Sihab;BAWASLU KABUPATEN/KOTA;37;Karsim;ASN;50;PRIA;Ikhsan Ali Fauzi, Ilham Rahmatullah;PELANGGARAN;HUKUM_LAIN
+180;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;001/TM/PB/Kec. Cimerak/13.27/VI/2020;30-Jun-20;Arif Jalaludin;PANWAS KECAMATAN;29;Mastur;TIM KAMPANYE;46;PRIA;Abdul Rohim, Edi Supriatna;BUKAN PELANGGARAN;HUKUM_LAIN
+181;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;002/TM/PB/Kec. Cimerak/13.27/VI/2020;04-Jul-20;Arif Jalaludin;PANWAS KECAMATAN;29;Edi Supriatna;TIM KAMPANYE;63;PRIA;Usin Ahmad Apandi, Egi Sutriat, S.Pd, Abdul Rohim;PELANGGARAN;HUKUM_LAIN
+182;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;001/TM/PB/Kec.Cigugur/13.27/VII/2020;07-Jul-20;Dadang solihin;PANWAS KECAMATAN;36;ENDANG;TIM KAMPANYE;56;PRIA;Itoh Masitoh, Wahyudin;PELANGGARAN;HUKUM_LAIN
+183;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;001/TM/PB/Kec.Langkaplancar/13.27/VII/2020;16/07/2020;JANA ERMAYA;PANWAS KECAMATAN;35;Amar;TIM KAMPANYE;41;PRIA;Ijang Sudarisman;PELANGGARAN;HUKUM_LAIN
+184;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/LP/PB/Kec.Pangandaran/13.27/VII/2020;16-Jul-20;Mansur Adnan;WNI;39;Hendriana;TIM KAMPANYE;56;PRIA;Ani Ainul Muslihatun, Selamet Nuryadin, Gunarto Ali;PELANGGARAN;ADMINISTRASI
+185;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PB/Kec. Parigi/13.27/VIII/2020;07-Aug-20;Rosidin Rosdiana;PANWAS KECAMATAN;58;Siti Fatimah, S.Pd, Sri Maryati, Rida Agustina Nurjanah, S.Pd, Doni Kosdiansah, S.Pd,. M.Pd;TIM KAMPANYE;42;WANITA;Dede Rosidin, Gilang Yudistira, Prayoga Dwi Jatmiko, S.TP;PELANGGARAN;ADMINISTRASI
+186;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/Kec.Padaherang/13.27/IX/2020;01/09/2020;Dudung Nurkhotim Said;BAWASLU KABUPATEN/KOTA;30;AIP SARIP HIDAYATULLOH;TIM KAMPANYE;45;PRIA;MUSLIMAN;PELANGGARAN;HUKUM_LAIN
+187;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;02/TM/PB/Kab/13.27/IX/2020;17/09/2020;Gaga Abdilah Sihab;BAWASLU KABUPATEN/KOTA;37;Sutriaman, Aep, Enjen;ASN;58;PRIA;Ikhsan Ali Fauzi, Jenjen Zainal Abidin;PELANGGARAN;HUKUM_LAIN
+188;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;002/TM/PB/Kec. Parigi/13.27/IX/2020;22/09/2020;Kuswaya Adi;PANWAS KECAMATAN;48;Eris Darmawan;TIM KAMPANYE;40;PRIA;Roni, Budi dan Suha;PELANGGARAN;HUKUM_LAIN
+189;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;02/TM/PB/Kec.Padaherang/13.27/IX/2020;29/09/2020;Dudung Nurkhotim Said;PANWAS KECAMATAN;30;H. SUPRATMAN;PASLON;56;PRIA;Nur Fajaruloh;PELANGGARAN;ADMINISTRASI
+190;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;01/TM/PB/Kec.Kalipucang/13-08/IX/2020;30/09/2020;Huda palahudin;PANWAS KECAMATAN;26;H.Adang Hadari , H.Supratman;PASLON;56;PRIA;Yosep Idi Supriadi, Angga Permana;PELANGGARAN;ADMINISTRASI
+191;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;01/PL/PB/Kab/13.27/X/2020;03/10/2020;Dapiq Syahal Manshur;WNI;37;H. Jeje Wiradinata;PASLON;56;PRIA;;BUKAN PELANGGARAN;ADMINISTRASI
+192;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;01/REG/LP/PB/Kab/13.27/X/2020;10/12/2020;Arif Budiman;TIM KAMPANYE PASLON;47;Nur Zimal;TIM KAMPANYE;25;PRIA;Hendarto dan Ipan Lesmana;BUKAN PELANGGARAN;PIDANA
+193;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;03/TM/PB/Kab/13.27/X/2020;08/10/2020;Ilham Ramatullah;BAWASLU KABUPATEN/KOTA;27;Jeje Wiradinata;PASLON;57;PRIA;Yuliany Siti Puspasarini, Dian Kusdian, Wianti dan Wowo Kustiwa;BUKAN PELANGGARAN;PIDANA
+194;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;02/REG/LP/PB/Kab/13.27/X/2020;27/10/2020;Devi Kriswanto;TIM KAMPANYE PASLON;38;Nia Komalasari;TIM KAMPANYE;45;WANITA;Rosnawati Rosadi;BUKAN PELANGGARAN;PIDANA
+195;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;03/10/2020;Roni Priatna;TIM KAMPANYE PASLON;47;H. Oman Rohman;TIM KAMPANYE;56;PRIA;Asep Muhamad Muhrom dan Andang;PELANGGARAN;HUKUM_LAIN
+196;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;002/TM/PB/Kec. Langkaplancar/13.27/XI/2020;03/11/2020;Jana Ermaya;PANWAS KECAMATAN;35;Deni Kusnani dan Dadih Sutisna;TIM KAMPANYE;56;PRIA;;PELANGGARAN;ADMINISTRASI
+197;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;002/TM/PB/Kec.Pangandaran/13.27/XI/2020;02/11/2020;Dindin Sahrudin;PANWAS KECAMATAN;48;Hamdan dan Yana Macan;TIM KAMPANYE;56;PRIA;;PELANGGARAN;ADMINISTRASI
+198;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;001/TM/PB/Kec.Cijulang/13.27/XI/2020;02/11/2020;Harris P Aji Nugraha;PANWAS KECAMATAN;39;Ade Suryono dan Jaja Sopardi;TIM KAMPANYE;56;PRIA;Baban Rusmayadi, M. Zaki Nasrulloh, Dede Mulyanto Riyadi dan Riza Tresna Ginanjar;PELANGGARAN;ADMINISTRASI
+199;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;002/TM/PB/Kec.Cigugur/13.27/XI/2020;01/11/2020;Solihin;PANWAS KECAMATAN;52;Andang dan Yosef;TIM KAMPANYE;56;PRIA;;PELANGGARAN;ADMINISTRASI
+200;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;002/REG/LP/PB/Kec.Pangandaran/13.27/XI/2020;07/11/2020;Sindu Lesaman;TIM KAMPANYE PASLON;32;"Sulaeman,Ipan Panuju 
+ dan Fitriana";TIM KAMPANYE;49;PRIA;Hermanto, Anton, Ujang Saepuloh dan Dwi Susila.;PELANGGARAN;ADMINISTRASI
+201;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;003/TM/PB/Kec. Parigi/13.27/XI/2020;09/11/2020;Kuswaya Adi;PANWAS KECAMATAN;48;Dani Supardi;TIM KAMPANYE;56;PRIA;;PELANGGARAN;ADMINISTRASI
+202;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pembentukan PPK PPS dan KPPS;001/TM/PB/Kec. Mangunjaya/XI/2020;23/11/2020;Toni Taufiq;PANWAS KECAMATAN;49;Abdul Gofir;PPS;48;PRIA;Eris Sunandar dan Tatang Hernawan;PELANGGARAN;ADMINISTRASI
+203;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;04/TM/PB/Kab/13.27/XI/2020;19/11/2020;Dudung Nurkhotim Said;PANWAS KECAMATAN;30;"1. Aka Zakaria (PNS)
+ 2. Curyadi (PNS)";ASN;50;PRIA;Eri Sandyy dan Hidayat;PELANGGARAN;HUKUM_LAIN
+204;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;03/REG/LP/PB/Kab/13.27/XI/2020;27/11/2020;Aldi Maulana;WNI;19;Oteng Dakik Solehudin;TIM KAMPANYE;50;PRIA;Sulaeman, Nendi, Icang, Usin;BUKAN PELANGGARAN;PIDANA
+205;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;;05/12/2020;Devi Kriswanto;TIM KAMPANYE PASLON;38;Forum Peduli Pemilih Jujur dan Cerdas Pangandaran;TIM KAMPANYE;56;PRIA;;BUKAN PELANGGARAN;PIDANA
+206;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;04/REG/LP/PB/Kab/13.27/XII/2020;03/12/2020;Erik Ekstrada;TIM KAMPANYE PASLON;34;H Wagimin dan Sdr Ano;TIM KAMPANYE;64;PRIA;Dimas,Nana Supriyatna,Endah Sutrianingsih, Haryanto dan Sukaenah;BUKAN PELANGGARAN;PIDANA
+207;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan Suara;;11/12/2020;Dede Ahyar;WNI;37;Iyus;TIM KAMPANYE;56;PRIA;Mujiati,Prayitno;BUKAN PELANGGARAN;PIDANA
+208;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan Suara;;11/12/2020;Taslim;WNI;66;Iin Kinem;TIM KAMPANYE;56;WANITA;-;BUKAN PELANGGARAN;PIDANA
+209;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan Suara;12/REG/LP/PB/Kab/13.27/XII/2020;11/12/2020;Yatino;WNI;40;Sdri. Nina (Perempuan) dan Sdr. Yanto (laki-laki);TIM KAMPANYE;30;PRIA;Sarjo, Tohidin dan Puji Agus Nugroho;PELANGGARAN;PIDANA
+210;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Pemungutan Suara;05/REG/LP/PB/Kab/13.27/XII/2020;12/07/2020;Sutisman;WNI;42;"1. Eman (Ketua RT 013/04 Dusun Cibadak Desa Emplak Kecamatan Kalipucang)
+ 2. Udin (Ketua RT 10/03 Dusun Cibadak Desa Emplak Kecamatan Kalipucang)
+ 3. Nurman (Tim Sukses JUARA)
+ 4. Sahidin (Relawan JUARA)";TIM KAMPANYE;56;PRIA;Oman Robiana dan Suhendar;BUKAN PELANGGARAN;PIDANA
+211;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;06/REG/LP/PB/Kab/13.27/XII/2020;12/07/2020;Salimin;WNI;69;Yaya (Ketua RT 04 RW 05 Dusun Sindangmangu Desa Bagolo);TIM KAMPANYE;56;PRIA;Sodimin;BUKAN PELANGGARAN;PIDANA
+212;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;07/REG/LP/PB/Kab/13.27/XII/2020;12/07/2020;Husen;WNI;51;Abas Rosadi;TIM KAMPANYE;56;PRIA;Ahman, dan Rena;BUKAN PELANGGARAN;PIDANA
+213;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;;12/11/2020;Wasmin Aryanto;WNI;47;"1. SOLEH Alias GENJO
+ 2. IMDAD";TIM KAMPANYE;56;PRIA;WASITO, ANAS SETIAWAN dan MASDAR;BUKAN PELANGGARAN;PIDANA
+214;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;08/REG/LP/PB/Kab/13.27/XII/2020;12/08/2020;Subiyono;WNI;61;Hasan;TIM KAMPANYE;56;PRIA;Juhi,Supena dan Nurjuhri;BUKAN PELANGGARAN;PIDANA
+215;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;09/REG/LP/PB/Kab/13.27/XII/2020;12/08/2020;Encep Yana Ismayana;WNI;39;"1.Otoy (Ketua RT 04)
+ 2. Uhan (Ketua RT 07)
+ 3. Empu (Ketua RT 03)
+ 4. Seni (Putranya Empu)";TIM KAMPANYE;56;PRIA;Ocid dan Aep;BUKAN PELANGGARAN;PIDANA
+216;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;10/REG/LP/PB/Kab/13.27/XII/2020;12/11/2020;Imam Agus Faisal;WNI;27;Ridwan;TIM KAMPANYE;30;PRIA;Suhada Akum dan Rahman;BUKAN PELANGGARAN;PIDANA
+217;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;11/REG/LP/PB/Kab/13.27/XII/2020;12/11/2020;Badru;WNI;47;Ateng;TIM KAMPANYE;33;PRIA;Oman, Saepul Ma?rup;BUKAN PELANGGARAN;PIDANA
+218;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;17/REG/LP/PB/Kab/13.27/XII/2020;12/11/2020;Niel Edwin;WNI;52;"1. Sdr. Maman
+ 2. Sdr. Saman";TIM KAMPANYE;68;PRIA;Ali dan Dadang;BUKAN PELANGGARAN;PIDANA
+219;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;13/REG/LP/PB/Kab/13.27/XII/2020;12/12/2020;H. Apan Sopandi;WNI;60;"1. Sdr. Saeful Rakhman (Tim Juara)
+ 2. Sdri. Soleha";TIM KAMPANYE;56;PRIA;Eti Rohaeti, Etin Nopianti dan Atinah;BUKAN PELANGGARAN;PIDANA
+220;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;;12/12/2020;Datiso Rostama;WNI;60;Kastiwi;TIM KAMPANYE;56;PRIA;-;BUKAN PELANGGARAN;PIDANA
+221;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;;12/12/2020;Rahli;WNI;66;Darman (Ketua Rt 031);TIM KAMPANYE;56;PRIA;-;BUKAN PELANGGARAN;PIDANA
+222;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;14/REG/LP/PB/Kab/13.27/XII/2020;12/12/2020;Utar Saputra;WNI;31;Nono (Tim JUARA);TIM KAMPANYE;56;PRIA;Yuningsih, Darsih dan Holid;BUKAN PELANGGARAN;PIDANA
+223;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;15/REG/LP/PB/Kab/13.27/XII/2020;12/12/2020;Uus Ruslan;WNI;49;Renny Widiastuty (Isterinya Sdr. H. Adang Hadari Calon Bupati Nomor urut 2);TIM KAMPANYE;41;WANITA;Sugiman, dan Sukarsih;BUKAN PELANGGARAN;PIDANA
+224;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;16/REG/LP/PB/Kab/13.27/XII/2020;12/12/2020;Indra;WNI;34;Pupung;TIM KAMPANYE;56;WANITA;Enan Permana dan Sanusi;BUKAN PELANGGARAN;PIDANA
+225;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;;13/12/2029;Dedi Setiawan;WNI;39;Reni (Isterinya H. Adang Hadari Calon Bupati Nomor 2);TIM KAMPANYE;41;WANITA;Endang Setiadi dan Solihin;BUKAN PELANGGARAN;PIDANA
+226;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;;14/12/2020;Adang Sutiana;WNI;52;Nur (Ketua Rt 02 Rw 06);TIM KAMPANYE;56;WANITA;Ati;BUKAN PELANGGARAN;PIDANA
+227;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;19/REG/LP/PB/Kab/13.27/XII/2020;14/12/2020;R Fajar Fauzi;WNI;45;Wartono dan Jidin;TIM KAMPANYE;56;PRIA;Yani, Wawan dan Faisal;BUKAN PELANGGARAN;PIDANA
+228;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;20/REG/LP/PB/Kab/13.27/XII/2020;15/12/2020;Subiyono;WNI;61;Eli;TIM KAMPANYE;56;PRIA;Lasman;BUKAN PELANGGARAN;PIDANA
+229;Jawa Barat;Kabupaten Pangandaran;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Penetapan Hasil Pemilihan;18/REG/LP/PB/Kab/13.27/XII/2020;13/12/2020;Bayu Pebrian Nugraha;WNI;26;Iip abdur rohman dan M. Taufik martin;TIM KAMPANYE;59;PRIA;Iing Ruhaedin, Dedi Dan Ipung;BUKAN PELANGGARAN;PIDANA
+230;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;02/TM/PB/Kab.Sukabumi/13.24/II/2020;19/02/2020;ABIDIN;PANWAS KECAMATAN;35;H. Sofyan Effendy, S.IP.;ASN;58;PRIA;WORO SUDRAJAT, ADE IRAWAN;PELANGGARAN;HUKUM_LAIN
+231;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;03/TM/PB/Kab.Sukabumi/13.24/VI/2020;10/06/2020;Teguh Hariyanto, M.Pd.;BAWASLU KABUPATEN/KOTA;35;H. Sofyan Effendy, S.IP.;ASN;58;PRIA;"Fevy Sheiri Syahminor, S.Kom; Moch. Iqsan Rauffiq & Ade Suryaman";PELANGGARAN;HUKUM_LAIN
+232;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;04/TM/PB/Kab.Sukabumi/13.24/VIII/2021;28/07/2020;Teguh Hariyanto, M.Pd;BAWASLU KABUPATEN/KOTA;35;Drs. H. Iyos Somantri, M.Si;ASN;58;PRIA;Herlan Heriyadi (Redaktur Sukabumi Update), Handi Salam (Redaktur Radar Sukabumi), Budi Azhar Mutawali (Sekjen DPD Partai Golkar (Disposisi ketua DPD partai Golkar Kab. Sukabumi, Ade Suryaman, S.H., M.M. ( Kepala BKPSDM Kab. Sukabumi);PELANGGARAN;HUKUM_LAIN
+233;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kab.Sukabumi/13.24/I/2020;26/01/2020;Teguh Hariyanto, M.Pd;BAWASLU KABUPATEN/KOTA;39;"1. Aung Ruhayadi, 
+ 2. Sumitra, 
+ 3. Iis Kurniasih, 
+ 4. Jalal, 
+ 5. Dendi Zaenudin, 
+ 6. Asep Sopian, 
+ 7. Iwan, 
+ 8. Sendi Agustian, 
+ 9. Lela Nurlela, 
+ 10. Yusup Maulana, 
+ 11. Moh. Arif Ismail, 
+ 12. Empan Sopandi, 
+ 13. Sarah Fauziah, 
+ 14. Feri Firmansyah, 
+ 15. Mira Oktaviani, E.
+ 16. Sri Suryani, 
+ 17. Wine Arlian Handayani, 
+ 18. Virly Septiana Sari, 
+ 19. Agum Taufikurahman, 
+ 20. Risman.";TIM KAMPANYE;56;PRIA;SINTA NURMALA, ERIK ARYANDI;PELANGGARAN;HUKUM_LAIN
+234;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/Kec.Cisaat/13.24/VIII/2020;18/08/2020;Ramlan Sanusi, S.Pd;PANWAS KECAMATAN;33;Jejen J, Empan Sopandi,;TIM KAMPANYE;45;PRIA;"1. Rahmat Kartolo, S.IP,
+  2. Novriyani";PELANGGARAN;ADMINISTRASI
+235;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kec.Cisolok/13.24/IX/2020;14/09/2020;Saepul Anwar;PANWAS KECAMATAN;43;Hidayah;TIM KAMPANYE;37;PRIA;"1. Dedi Heryadi;
+ 2. Edin";BUKAN PELANGGARAN;HUKUM_LAIN
+236;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;05/TM/PB/Kab.Sukabumi/13.24/IX/2021;20/09/2020;Teguh Hariyanto, M.Pd;BAWASLU KABUPATEN/KOTA;35;Taopik Guntur;ASN;58;PRIA;"1. Narlan Suhendar 
+ 2. Ceceng Sudarman 
+ 3. Moh. Badrudin 
+ 4. Sandi Firmansyah 
+ 5. Opik";PELANGGARAN;HUKUM_LAIN
+237;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;01/TM/PB/Kec.Cicantayan/13.24/X/2020;10/03/2020;Palah, M.Pd.;PANWAS KECAMATAN;39;H. Asep Syaiful Mahdan;TIM KAMPANYE;54;PRIA;1. Irfan Fadhillah, 2. Papin Apandi, 3. Dadan;PELANGGARAN;ADMINISTRASI
+238;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;06/TM/PB/Kab/13.24/X/2020;20/10/2020;Teguh Hariyanto, M.Pd;BAWASLU KABUPATEN/KOTA;35;Drs. H. Ali Iskandar, M.H.;ASN;49;PRIA;"1. Irvan Azis; 2. Fahmi Setia DN;";PELANGGARAN;HUKUM_LAIN
+239;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;07/TM/PB/Kab/13.24/X/2020;20/10/2020;Teguh Hariyanto, M.Pd;BAWASLU KABUPATEN/KOTA;35;Tamtam Alamsyah, S.IP.;ASN;51;PRIA;"1. Irvan Azis; 2. Fadli Firdaus";PELANGGARAN;HUKUM_LAIN
+240;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;08/TM/PB/Kab/13.24/X/2021;20/10/2021;Teguh Hariyanto, M.Pd;BAWASLU KABUPATEN/KOTA;35;Drs. Lesto Rosadi;ASN;55;PRIA;"1. Irvan Azis; 2. Moh. Akbar; 3. Fadli Firdaus.";PELANGGARAN;HUKUM_LAIN
+241;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;09/TM/PB/Kab/13.24/X/2022;21/10/2022;Kamaludin Supandi;PANWAS KECAMATAN;51;Sarip;TIM KAMPANYE;53;PRIA;"1. Nandang Hidayat; 2. Yogi Yogaswara; 3. Taupik Hidayatullah";PELANGGARAN;HUKUM_LAIN
+242;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;10/TM/PB/Kab/13.24/X/2023;21/10/2020;Samsul Anwar;PANWAS KECAMATAN;37;Saeban;TIM KAMPANYE;33;PRIA;"1. Jamaludin; 2. Surya Irawan";PELANGGARAN;HUKUM_LAIN
+243;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;11/TM/PB/Kab/13.24/X/2024;21/10/2021;M. Lutfi Abdul Latif;PANWAS KECAMATAN;28;Sirojudin, SE;PASLON;43;PRIA;"1. Hendrik Kurnia, S.Pd; 2. Hamdan Saepudin, S.Pd,I.";BUKAN PELANGGARAN;PIDANA
+244;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;12/REG/LP/PB/Kab/13.24/XI/2020;28/11/2020;Ari Apriyanto, S.H;WNI;36;Ojang Affandi;TIM KAMPANYE;52;PRIA;"1. Ivan Faizal, S.H.,MM
+ 2. Padlilah, S.H.,MH.
+ 3. Rachmat Iskandar, S.H
+ 4. Yudi Suryadi
+ 5. Ferry Gustaman, S.H";BUKAN PELANGGARAN;PIDANA
+245;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;13/TM/PB/Kab/13.24/XII/2020;12/02/2020;Iwan Setiawan, S.Pd.I.;PANWAS KECAMATAN;44;Sihabudin;TIM KAMPANYE;43;PRIA;"1. Hamdan Saepudin, S.Pd.I; 2. Ujang Mulyadi; 3. Odang Ruhiyat Setiawan; 4. Neneng; 5. Sukandi.";BUKAN PELANGGARAN;HUKUM_LAIN
+246;Jawa Barat;Kabupaten Sukabumi;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;14/REG/LP/PB/Kab/13.24/XII/2020;12/08/2020;M. Rafi'i Nasution, S.H.,M.H.;WNI;43;Ahmad Maulana;TIM KAMPANYE;43;PRIA;1. Dede Abdul Latif, 2. Andri Yules, 3. Sugiyanto, 4. Anton;BUKAN PELANGGARAN;PIDANA
+247;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pencalonan;01/TM/PB/Kab/13.26/II/2020;03/02/2020;Ahmad Aziz Firdaus;BAWASLU KABUPATEN/KOTA;44;"(1) Sdr. H. Cep Zamzam Dzulfikar Nur 
+  (2) Sdr. Drs. H. Suryana, Msi
+  (3) Sdr. Dr. H. Iwan Saputra, SE, M.Si";ASN;36;PRIA;JAJA SUTISNA, ENJANG MUKHLIS, DKK;PELANGGARAN;HUKUM_LAIN
+248;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pembentukan PPK PPS dan KPPS;02/TM/PB/Kab/13.26/VIII/2020;02-Aug-20;Undang Suherman;PANWAS KECAMATAN;62;Dian Budiman;PPK;35;PRIA;cecep Jatnika, Kurnia Saepudin;PELANGGARAN;KODE_ETIK
+249;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;01/TM/PB/Kec. Mangunreja/13.26/VII/2020;01-Aug-20;Dede Aan Alawiyah;PANWAS KECAMATAN;47;Kusnadi (PPDP TPS 2);PPS;47;PRIA;Rida Yasin Hilmi;PELANGGARAN;ADMINISTRASI
+250;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;04/TM/PB/Kab/13.26/XI/2020;06-Nov-20;SYARIF ALI;PANWAS KECAMATAN;39;EE HARUN;ASN;56;PRIA;"Opik Ruhimat, S.Pd.I
+ Wawan Ridwan, SH.I";PELANGGARAN;HUKUM_LAIN
+251;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;05/TM/PB/Kab/13.26/XI/2020;06-Nov-20;ACENG NOOR SYIHAB;PANWAS KECAMATAN;39;TATANG SOMANTRI;ASN;56;PRIA;"Dadan Hamdan,
+ Deden Kosim";PELANGGARAN;HUKUM_LAIN
+252;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;06/TM/PB/Kab/13.26/XI/2020;18-Nov-20;Ahmad Aziz Firdaus;BAWASLU KABUPATEN/KOTA;39;PASANGAN CALON BUPATI DAN WAKIL BUPATI TASIKMALAYA NOMOR URUT 1 AZIES RISMAYA DAN HARIS SANJAYA;PASLON;56;PRIA;MOCH AI NURDIN, SE;BUKAN PELANGGARAN;ADMINISTRASI
+253;jawa barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;07/TM/PB/Kab/13.26/XI/2020;23-Nov-20;Ahmad Aziz Firdaus;BAWASLU KABUPATEN/KOTA;39;Jajang Suryadi Bin Ujang Rukmana;TIM KAMPANYE;56;PRIA;Alba Turganda Bin kiki;BUKAN PELANGGARAN;PIDANA
+254;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;08/TM/PB/Kab/13.26/XI/2020;23-Nov-20;AMI IMRON TAMAMI, S. Pd;PANWAS KECAMATAN;39;Ajat Sudrajat;TIM KAMPANYE;56;PRIA;"Ojat
+ Hilman Farid";BUKAN PELANGGARAN;PIDANA
+255;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;01/LP/PB/Kab/13.26/XII/2020;25-Nov-20;Akil;WNI;39;Enong Mawardi Yajid;ASN;56;PRIA;"Usman
+ Mutakin";PELANGGARAN;PIDANA
+256;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;09/TM/PB/Kab/13.26/XI/2020;27-Nov-20;Cecep Mustawan, S.Pd;PANWAS KECAMATAN;39;iing njamudin;TIM KAMPANYE;56;PRIA;"Gina Marlina 
+ Erin Riyanti";BUKAN PELANGGARAN;PIDANA
+257;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;10/TM/PB/Kab/13.26/XI/2020;28-Nov-20;Aceng Noer Syihab;PANWAS KECAMATAN;39;Warman;TIM KAMPANYE;56;PRIA;"Dahlil 
+ Sahrul Rosad";PELANGGARAN;PIDANA
+258;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;02/LP/PB/Kab/13.26/XII/2020;04-Dec-20;ADE HARYANTO;WNI;39;DADAN DARMAYANA;TIM KAMPANYE;56;PRIA;"Tatang Hasan
+ Mastur Albet";BUKAN PELANGGARAN;PIDANA
+259;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;TEMUAN;Pelaksanaan Kampanye;11/TM/PB/Kab/13.26/XI/2020;12-Dec-20;Ahmad Aziz Firdaus;BAWASLU KABUPATEN/KOTA;39;iwan ridwan;ASN;56;PRIA;"AGUS TONI
+ YUSEP SANTONI";PELANGGARAN;PIDANA
+260;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;03/LP/PB/Kab/13.26/XII/2020;16-Dec-20;SAHRUL MUBAROK;WNI;39;DADAN MULDANI;TIM KAMPANYE;56;PRIA;"Enjang Musthofa Salim
+ Yudi Juhitan";BUKAN PELANGGARAN;PIDANA
+261;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;04/LP/PB/Kab/13.26/XII/2020;16-Dec-20;AAZ ABDUL AZIZ;WNI;39;AGUS ZAENAL MUSTHOFA;TIM KAMPANYE;56;PRIA;"ARIF RIFA'I
+ AWAB ABDULLAH";BUKAN PELANGGARAN;PIDANA
+262;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;05/LP/PB/Kab/13.26/XII/2020;16-Dec-20;SUHERMAN;WNI;39;"1. Sdr. IKA
+ 2. Sdr. HADA
+ 3. Sdr. AIF";TIM KAMPANYE;56;PRIA;"RIKI CAHYADI
+ ALIK KHOEROSALI";BUKAN PELANGGARAN;PIDANA
+263;Jawa Barat;Kabupaten Tasikmalaya;Pemilihan Bupati dan Wakil Bupati;LAPORAN;Pelaksanaan Kampanye;06/LP/PB/Kab/13.26/XII/2020;16-Dec-20;ONENG;WNI;39;Sdr. Yayat;TIM KAMPANYE;56;PRIA;"KOMAR
+ MUHAMMAD SYAKUR";BUKAN PELANGGARAN;PIDANA
+264;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pencalonan;001/TM/PW/Kot/13.07/II/2020;29 Januari 2020;Muhammad Warkam ;PANWAS KECAMATAN;39;Drg. Hardiono Sp. BM;ASN;60;PRIA;PANJI SURYONO;BUKAN PELANGGARAN;HUKUM_LAIN
+265;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PW/Kec/13.07/VIII/2020;05-Aug-20;Nurjanah;PANWAS KECAMATAN;27;Suryawati;TIM KAMPANYE;41;WANITA;ADE KARSONO, NINA NOVIANI;PELANGGARAN;ADMINISTRASI
+266;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;001/TM/PW/Kec/13.07/VIII/2020;18-Aug-20;Sobari;PPL;28;Handa Andika;PPS;38;PRIA;YUDIS, NING,;PELANGGARAN;ADMINISTRASI
+267;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pemuktahiran dan Penyusunan Daftar Pemilih;002/TM/PW/Kot/13.07/IX/2020;09-Sep-20;Eko Wardaya;BAWASLU KABUPATEN/KOTA;32;KPU Kota Depok;KPUD;56;PRIA;Panwaslu Kecamatan;PELANGGARAN;ADMINISTRASI
+268;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pencalonan;003/TM/PW/Kot/13.07/IX/2020;01-Oct-20;Febriansyah Ramadan;BAWASLU KABUPATEN/KOTA;28;Suyanto;PPK;43;PRIA;JUAENI, ANAN;PELANGGARAN;KODE_ETIK
+269;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;004/TM/PW/Kota/13.07/X/2020;28-Oct-20;Eko Wardaya;BAWASLU KABUPATEN/KOTA;32;Tri Sutanto, Jaji Pajri, Syaiful Hidayat;ASN;54;PRIA;;PELANGGARAN;KODE_ETIK
+270;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;01/TM/PW/Kec-Limo/13.07/X/2020;24-Oct-20;Wiwin Erni Hidawati;PPL;39;Supari;TIM KAMPANYE;56;PRIA;Ahmad Amarullah, Bari Abdul Aziz. Mara Sukmara.;PELANGGARAN;ADMINISTRASI
+271;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;005/TM/PW/Kota/13.07/XI/2020;10-Nov-20;Dede Yusipa;PANWAS KECAMATAN;36;H. Syaroni;ASN;59;PRIA;Wiji Aji, Marullah, Suminto, Wandi;PELANGGARAN;PIDANA
+272;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;01/TM/PW/Kec-Cilodong/13.07/X/2020;16/11/2020;Much. Murdiono;PANWAS KECAMATAN;39;Anton Sujarwo;TIM KAMPANYE;56;PRIA;Eros kartobi;PELANGGARAN;ADMINISTRASI
+273;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;01/TM/PW/Kec-Pancoran Mas/13.07/X/2020;09/11/2020;Sri Aryati;PPL;39;Iwan Gunawan;TIM KAMPANYE;56;PRIA;Agus Salim;PELANGGARAN;ADMINISTRASI
+274;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;006/TM/PW/Kota/13.07/XI/2020;22/11/2020;Syahril Hidayat;PANWAS KECAMATAN;39;Siti Manunah;TIM KAMPANYE;68;PRIA;Wahyuni, Sholeha;PELANGGARAN;ADMINISTRASI
+275;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;007/TM/PW/Kota/13.07/XI/2020;24/11/2020;Iwan Susanto;PPL;27;Babai Suhaimi;TIM KAMPANYE;49;PRIA;Sa'aanah, Lamiyah;PELANGGARAN;PIDANA
+276;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;LAPORAN;Pelaksanaan Kampanye;001/LP/Reg/PW/Kota/13.07/XII/2020;02/12/2020;Sartono;WNI;45;Babai Suhaimi;TIM KAMPANYE;49;PRIA;Nurbadriyah;BUKAN PELANGGARAN;PIDANA
+277;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;008/TM/PW/Kota/13.07/XII/2020;07/12/2020;Yudi Haryadi;PANWAS KECAMATAN;53;Yunita;TIM KAMPANYE;45;WANITA;Muhammad Warkam;PELANGGARAN;KODE_ETIK
+278;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;009/TM/PW/Kota/13.07/XII/2020;07/12/2020;Yudi Haryadi;PANWAS KECAMATAN;53;Ladika;TIM KAMPANYE;56;WANITA;Muhammad Warkam;PELANGGARAN;KODE_ETIK
+279;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Kampanye;010/TM/PW/Kota/13.07/XII/2020;07/12/2020;Suyatno;PANWAS KECAMATAN;39;M. Yasin;TIM KAMPANYE;40;PRIA;Sofwan;PELANGGARAN;KODE_ETIK
+280;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;LAPORAN;Pelaksanaan Kampanye;002/LP/Reg/PW/Kota/13.07/XII/2020;09/12/2020;Saharwan Perkasa;WNI;52;Sdri. Winda dan Sdr. Daud Maulana;TIM KAMPANYE;42;PRIA;Sdr. Hambali dan Sdri. Indar;BUKAN PELANGGARAN;PIDANA
+281;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Pemungutan dan Penghitungan Suara;010/TM/PW/Kota/13.07/X/2020;19/12/2020;Suyatno;PANWAS KECAMATAN;53;Suyanthi;PPS;43;WANITA;M. Irsyad;PELANGGARAN;ADMINISTRASI
+282;Jawa Barat;Kota Depok;Pemilihan Walikota dan Wakil Walikota;TEMUAN;Pelaksanaan Pemungutan dan Penghitungan Suara;011/TM/PW/Kota/13.07/X/2020;19/12/2020;Febriansyah Ramadan;BAWASLU KABUPATEN/KOTA;28;Panwaslu Kecamatan Tapos, dan Sdr. Ibrahim. PKD Kecamatan Tapos;PANWAS KECAMATAN;56;PRIA;Reynaldi Dzulkaidt;PELANGGARAN;KODE_ETIK
