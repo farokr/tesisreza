@@ -67,8 +67,11 @@ def eda():
             st.write(fig4)
 
 def kmeans():
-    st.header('K-Means')     
-    df1 = proses_data(pd.read_csv('DATA_TESIS.csv',sep=';'))
+    st.header('K-Means')  
+    df_master = pd.read_csv('DATA_TESIS.csv',sep=';')  
+    df1 = proses_data(df_master)
+    pca = PCA(2) #mengubah menajdi 2 kolom
+    df1 = pca.fit_transform(df1) #Transform data
    
      
     st.subheader('Pemilihan nilai K Menggunakan Elbow Method')
@@ -113,25 +116,34 @@ def kmeans():
     
     label = model.fit_predict(df1) #proses Clustering
     
-    pca = PCA(2) #mengubah menajdi 2 kolom
-    dfnp = pca.fit_transform(df1) #Transform data
-    center = pca.fit_transform(model.cluster_centers_)
+    
+    
+    center = model.cluster_centers_
     
     #dibuat menjadi dataFrame
-    df1['x1'] = dfnp[:,0]
-    df1['y1'] = dfnp[:,1]
-    df1['label'] = label
+    df_master['x1'] = df1[:,0]
+    df_master['y1'] = df1[:,1]
+    df_master['cluster'] = label
     
     
     fig3= plt.figure()
-    sns.scatterplot(x='x1', y='y1',hue='label',data=df1,alpha=1, s=40, palette='deep')
+    sns.scatterplot(x='x1', y='y1',hue='cluster',data=df_master,alpha=1, s=40, palette='deep')
     plt.scatter(x=center[:, 0], y=center[:, 1], s=100, c='black', ec='red',label='centroid')
     plt.legend(bbox_to_anchor=(1,1), loc="upper left")
     st.write(fig3)
     
     fig4= plt.figure()
-    sns.countplot(x ='label', data=df1)
+    sns.countplot(x ='cluster', data=df_master)
     st.write(fig4)
+    
+    cluster = df_master['cluster'].unique()
+    cluster.sort()
+
+    
+    choice = st.selectbox("Pilih Kluster",cluster)
+    res = df_master.loc[df_master['cluster'] == choice]
+    st.subheader('Cluster '+str(choice)+': '+str(res.shape[0])+' data')
+    st.write(res)
      
      
      
@@ -139,19 +151,28 @@ def kmeans():
     
     
 def apps():
+    k_value = int(st.text_input('Nilai K:',value=3))
     data = st.file_uploader("Upload a Dataset", type=["csv"])
     if data is not None:
+        
+        
         df = pd.read_csv(data,sep=';')
         st.dataframe(df)
         df1 = proses_data(df)
-        model = pickle.load(open('model_save.pkl', 'rb'))
-        label = model.predict(df1)
+        #model = pickle.load(open('model_save.pkl', 'rb'))
+        #label = model.predict(df1)
+        
         pca = PCA(2) #mengubah menajdi 2 kolom
-        dfnp = pca.fit_transform(df1) #Transform data
-        center = pca.fit_transform(model.cluster_centers_)
+        df1 = pca.fit_transform(df1) #Transform data
+        
+        model = KMeans(n_clusters=k_value,random_state=101)
+        model.fit(df1)
+        label = model.predict(df1)
+        center = model.cluster_centers_
+        
         #dibuat menjadi dataFrame
-        df['x1'] = dfnp[:,0]
-        df['y1'] = dfnp[:,1]
+        df['x1'] = df1[:,0]
+        df['y1'] = df1[:,1]
         df['cluster'] = label
         st.write('Proses Dimulai...')
         for index, row in df.iterrows():
