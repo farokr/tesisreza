@@ -44,7 +44,7 @@ def proses_data(DATAKU):
 
 def get_table_download_link(df):
     towrite = io.BytesIO()
-    df.to_excel(towrite, encoding='utf-8', index=False, header=True) # write to BytesIO buffer
+    df.to_excel(towrite, encoding='utf-8', index=False, header=True, engine='xlsxwriter') # write to BytesIO buffer
     towrite.seek(0)  # reset pointer
     #csv = df.to_csv(index=False,sep=';')
     b64 = base64.b64encode(towrite.read()).decode()
