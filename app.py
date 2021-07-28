@@ -8,8 +8,10 @@ from scipy.spatial.distance import cdist
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 
-import pickle
+#import pickle
 import base64
+
+import io
  
 
 
@@ -41,10 +43,15 @@ def proses_data(DATAKU):
 #end of proses_data
 
 def get_table_download_link(df):
-    csv = df.to_csv(index=False,sep=';')
-    b64 = base64.b64encode(csv.encode()).decode()
-    new_filename = "datahasil.csv"
-    href = f'<a href="data:file/csv;base64,{b64}" download="{new_filename}">Download file hasil clustering</a>'
+    towrite = io.BytesIO()
+    df.to_excel(towrite, encoding='utf-8', index=False, header=True) # write to BytesIO buffer
+    towrite.seek(0)  # reset pointer
+    #csv = df.to_csv(index=False,sep=';')
+    b64 = base64.b64encode(towrite.read()).decode()
+    new_filename = "datahasil.xlsx"
+    href= f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" download="{new_filename}">Download excel file</a>'
+
+    #href = f'<a href="data:file/csv;base64,{b64}" download="{new_filename}">Download file hasil clustering</a>'
     return href
 #end of proses_data
 
@@ -189,6 +196,7 @@ def apps():
         fig4= plt.figure()
         sns.countplot(x ='cluster', data=df)
         st.write(fig4)
+        
         
         st.markdown(get_table_download_link(df), unsafe_allow_html=True)
         
