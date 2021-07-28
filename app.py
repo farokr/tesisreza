@@ -8,11 +8,46 @@ from scipy.spatial.distance import cdist
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 
-from kmodes.kmodes import KModes
+import pickle
+import base64
+ 
+
 
 column = ['','KABUPATEN_KOTA','TAHAPAN','JABATAN_PELAPOR','JABATAN_TERLAPOR','JENIS_KELAMIN_TERLAPOR','HASIL_KAJIAN','JENIS_PELANGGARAN']
-    
-    
+
+def proses_data(DATAKU):
+    TESISKU = DATAKU.drop(['NO','PROVINSI','DAERAH_PEMILIHAN','LAPORAN_TEMUAN','NOMOR', 'TANGGAL_TEMUAN_LAPORAN', 'NAMA_PELAPOR', 'UMUR_PELAPOR', 'NAMA_TERLAPOR','SAKSI'], axis = 1)
+    KABUPATEN_KOTA   = pd.get_dummies(TESISKU.KABUPATEN_KOTA , drop_first=True)
+    TAHAPAN  = pd.get_dummies(TESISKU.TAHAPAN, drop_first=True)
+    JABATAN_PELAPOR = pd.get_dummies(TESISKU.JABATAN_PELAPOR, drop_first=True)
+    JABATAN_TERLAPOR = pd.get_dummies(TESISKU.JABATAN_TERLAPOR , drop_first=True)
+    JENIS_KELAMIN_TERLAPOR = pd.get_dummies(TESISKU.JENIS_KELAMIN_TERLAPOR, drop_first=True)
+    HASIL_KAJIAN = pd.get_dummies(TESISKU. HASIL_KAJIAN, drop_first=True)  
+    JENIS_PELANGGARAN = pd.get_dummies(TESISKU. JENIS_PELANGGARAN, drop_first=True)
+    TESISKU2 = pd.concat([TESISKU, KABUPATEN_KOTA, TAHAPAN, JABATAN_PELAPOR, JABATAN_TERLAPOR, JENIS_KELAMIN_TERLAPOR, HASIL_KAJIAN, JENIS_PELANGGARAN], axis = 1)
+
+    TESISKU3 = TESISKU2.merge(KABUPATEN_KOTA, left_index=True, right_index=True)
+    TESISKU3 = TESISKU2.merge(TAHAPAN, left_index=True, right_index=True)
+    TESISKU3 = TESISKU2.merge(JABATAN_PELAPOR, left_index=True, right_index=True)
+    TESISKU3 = TESISKU2.merge(JABATAN_TERLAPOR, left_index=True, right_index=True)
+    TESISKU3 = TESISKU2.merge(JENIS_KELAMIN_TERLAPOR, left_index=True, right_index=True)
+    TESISKU3 = TESISKU2.merge(HASIL_KAJIAN, left_index=True, right_index=True)
+    TESISKU3 = TESISKU2.merge(JENIS_PELANGGARAN, left_index=True, right_index=True)
+
+    TESISKU4 = TESISKU3.drop(['KABUPATEN_KOTA','TAHAPAN','JABATAN_PELAPOR','HASIL_KAJIAN','JENIS_KELAMIN_TERLAPOR'], axis = 1)
+    TESISKU4 = TESISKU4.drop(['JABATAN_TERLAPOR','UMUR_TERLAPOR','JENIS_PELANGGARAN'],axis=1)
+
+    return TESISKU4
+#end of proses_data
+
+def get_table_download_link(df):
+    csv = df.to_csv(index=False,sep=';')
+    b64 = base64.b64encode(csv.encode()).decode()
+    new_filename = "datahasil.csv"
+    href = f'<a href="data:file/csv;base64,{b64}" download="{new_filename}">Download file hasil clustering</a>'
+    return href
+#end of proses_data
+
 def eda():
     st.header('Datasets')
     df = pd.read_csv('DATA_TESIS.csv',sep=';')
@@ -33,7 +68,7 @@ def eda():
 
 def kmeans():
     st.header('K-Means')     
-    df1 = pd.read_csv('data_ready.csv',sep=',')
+    df1 = proses_data(pd.read_csv('DATA_TESIS.csv',sep=';'))
    
      
     st.subheader('Pemilihan nilai K Menggunakan Elbow Method')
@@ -42,7 +77,7 @@ def kmeans():
     mapping1 = {}
     mapping2 = {}
     
-    K = range(1, 11)
+    K = range(2, 11)
     for k in K:
         # Building and fitting the model
         kmeanModel = KMeans(n_clusters=k).fit(df1)
@@ -69,11 +104,15 @@ def kmeans():
     st.write(fig2)
 
     st.header('K-Means Modelling')
-    k_value  = st.slider('Nilai K (3-10)', min_value=3, max_value=10, step=1, value=4)
+    k_value  = st.slider('Nilai K (3-10)', min_value=3, max_value=10, step=1, value=3)
     
 
     model = KMeans(n_clusters=k_value) # isnisialisasi Kmeans dgn  nilai K yg dipilih
+    model.fit_predict(df1) #proses Clustering
+    #pickle.dump(model, open('model_save', 'wb'))
+    
     label = model.fit_predict(df1) #proses Clustering
+    
     pca = PCA(2) #mengubah menajdi 2 kolom
     dfnp = pca.fit_transform(df1) #Transform data
     center = pca.fit_transform(model.cluster_centers_)
@@ -96,68 +135,59 @@ def kmeans():
      
      
      
-     
-def kmodes():
-    st.header('K-Modes')
-    df = X = pd.read_csv('data_ready.csv',sep=',')
-    
-    cost = []
-    K = range(1,9)
- 
-    for k in K:
-        kmode = KModes(n_clusters=k, init = "Cao", n_init = 1)
-        kmode.fit_predict(df)
-        cost.append(kmode.cost_)
-        
-    st.text('The Elbow Method using K-modes Cost')
-    fig2a = plt.figure(figsize=(4,2))
-    plt.plot(K, cost, 'bx-')
-    plt.xlabel('Values of K')
-    plt.ylabel('Cost')
-    st.write(fig2a)
 
-    st.header('K-Modes Modelling')
-    
-    k_value  = st.slider('Nilai K (3-10)', min_value=3, max_value=10, step=1, value=4)
-    model = KModes(n_clusters=k_value, init = "Cao", n_init = 1, verbose=1)# isnisialisasi Kmodes dgn  nilai K yg dipilih
-    label = model.fit_predict(X) #proses Clustering
     
     
-    pca = PCA(2) #mengubah menajdi 2 kolom
-    dfnp = pca.fit_transform(X) #Transform data
-    center = pca.fit_transform(model.cluster_centroids_)
+def apps():
+    data = st.file_uploader("Upload a Dataset", type=["csv"])
+    if data is not None:
+        df = pd.read_csv(data,sep=';')
+        st.dataframe(df)
+        df1 = proses_data(df)
+        model = pickle.load(open('model_save.pkl', 'rb'))
+        label = model.predict(df1)
+        pca = PCA(2) #mengubah menajdi 2 kolom
+        dfnp = pca.fit_transform(df1) #Transform data
+        center = pca.fit_transform(model.cluster_centers_)
+        #dibuat menjadi dataFrame
+        df['x1'] = dfnp[:,0]
+        df['y1'] = dfnp[:,1]
+        df['cluster'] = label
+        st.write('Proses Dimulai...')
+        for index, row in df.iterrows():
+            st.write(str(row['NO'])+'... cluster: ',str(row['cluster']))
+        st.write('Proses Selesai')
+        st.dataframe(df)
+        
+        fig3= plt.figure()
+        sns.scatterplot(x='x1', y='y1',hue='cluster',data=df,alpha=1, s=40, palette='deep')
+        plt.scatter(x=center[:, 0], y=center[:, 1], s=100, c='black', ec='red',label='centroid')
+        plt.legend(bbox_to_anchor=(1,1), loc="upper left")
+        st.write(fig3)
+
+        fig4= plt.figure()
+        sns.countplot(x ='cluster', data=df)
+        st.write(fig4)
+        
+        st.markdown(get_table_download_link(df), unsafe_allow_html=True)
+        
+        
     
-    #dibuat menjadi dataFrame
-    df['x1'] = dfnp[:,0]
-    df['y1'] = dfnp[:,1]
-    df['label'] = label
-    
-    
-    fig3a= plt.figure()
-    sns.scatterplot(x='x1', y='y1',hue='label',data=df,alpha=1, s=40, palette='deep')
-    plt.scatter(x=center[:, 0], y=center[:, 1], s=100, c='black', ec='red',label='centroid')
-    plt.legend(bbox_to_anchor=(1,1), loc="upper left")
-    st.write(fig3a)
-    
-    fig4a= plt.figure()
-    sns.countplot(x ='label', data=df)
-    st.write(fig4a)
-    
-    
+#end of apps
     
 def main():
     """ Streamlit Pelanggaran Pilkada Jabar """
 
-    activities = ['EDA','K-Means','K-Modes']	
+    activities = ['EDA','K-Means','Aplikasi Perhitungan']
     choice = st.sidebar.selectbox("Select Activities",activities)
     
     if choice == 'EDA':
         eda()
     elif choice == 'K-Means':
         kmeans()
-    elif choice == 'K-Modes':
-        kmodes()
+    elif choice == 'Aplikasi Perhitungan':
+        apps()
         
 
 if __name__ == '__main__':
-	main()
+    main()
